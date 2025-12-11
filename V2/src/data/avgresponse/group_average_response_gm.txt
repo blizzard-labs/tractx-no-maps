@@ -1,0 +1,5 @@
+# command_history: /Users/krishna/src/mrtrix3/bin/responsemean gm.txt ../avgresponse/group_average_response_gm.txt  (version=3.0.4-57-g4e4b6d4a)
+985.034180675810035
+488.671055711422014
+341.145129916095016
+136.447943755645014

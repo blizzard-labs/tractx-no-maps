@@ -1,0 +1,109 @@
+nxf-scratch-dir blueshard.lan:/var/folders/f6/285f04n965921dfwzyxh0yvh0000gn/T//nxf.varRrmojm0
+2024-04-05 13:37:44 blueshard.lan root[8399] DEBUG Load tracking.trk with 2000000 streamlines in 18.868 seconds.
+2024-04-05 13:37:44 blueshard.lan root[8399] DEBUG Tractogram ['tracking.trk'] with 2000000 streamlines is loaded in 18.89 seconds
+2024-04-05 13:37:44 blueshard.lan root[8399] INFO 1 sub-model directory were found each with 51 model bundles
+2024-04-05 13:38:35 blueshard.lan root[8399] INFO QBx with seed 0 at 12mm took 42.62sec. gave 8621 centroids
+ERROR:root:AC did not find any neighbors in the tractogram
+ERROR:root:PC did not find any neighbors in the tractogram
+ERROR:root:CG_L_Po did not find any neighbors in the tractogram
+ERROR:root:CG_L_curve did not find any neighbors in the tractogram
+ERROR:root:CC_Fr_1 did not find any neighbors in the tractogram
+ERROR:root:CC_Pr_Po did not find any neighbors in the tractogram
+ERROR:root:CG_R did not find any neighbors in the tractogram
+ERROR:root:AF_L did not find any neighbors in the tractogram
+ERROR:root:CC_Te did not find any neighbors in the tractogram
+ERROR:root:CG_R_An did not find any neighbors in the tractogram
+ERROR:root:CC_Fr_2 did not find any neighbors in the tractogram
+ERROR:root:CG_L did not find any neighbors in the tractogram
+ERROR:root:CG_R_Po did not find any neighbors in the tractogram
+ERROR:root:CG_R_curve did not find any neighbors in the tractogram
+ERROR:root:CG_L_An did not find any neighbors in the tractogram
+ERROR:root:CC_Oc did not find any neighbors in the tractogram
+ERROR:root:FAT_L did not find any neighbors in the tractogram
+ERROR:root:FAT_R did not find any neighbors in the tractogram
+ERROR:root:CC_Pa did not find any neighbors in the tractogram
+ERROR:root:FPT_L_Brainstem did not find any neighbors in the tractogram
+ERROR:root:AF_R did not find any neighbors in the tractogram
+ERROR:root:FX_L did not find any neighbors in the tractogram
+ERROR:root:FX_R did not find any neighbors in the tractogram
+ERROR:root:FPT_R_Brainstem did not find any neighbors in the tractogram
+ERROR:root:ICP_L did not find any neighbors in the tractogram
+ERROR:root:ICP_R did not find any neighbors in the tractogram
+ERROR:root:FPT_L did not find any neighbors in the tractogram
+ERROR:root:IFOF_L did not find any neighbors in the tractogram
+ERROR:root:FPT_R did not find any neighbors in the tractogram
+ERROR:root:OR_ML_R did not find any neighbors in the tractogram
+ERROR:root:MCP did not find any neighbors in the tractogram
+ERROR:root:MdLF_L did not find any neighbors in the tractogram
+ERROR:root:POPT_L_Brainstem did not find any neighbors in the tractogram
+ERROR:root:IFOF_R did not find any neighbors in the tractogram
+ERROR:root:MdLF_R did not find any neighbors in the tractogram
+ERROR:root:POPT_R did not find any neighbors in the tractogram
+ERROR:root:POPT_R_Brainstem did not find any neighbors in the tractogram
+ERROR:root:OR_ML_L did not find any neighbors in the tractogram
+ERROR:root:PYT_L_Brainstem did not find any neighbors in the tractogram
+ERROR:root:ILF_L did not find any neighbors in the tractogram
+ERROR:root:POPT_L did not find any neighbors in the tractogram
+ERROR:root:PYT_R_Brainstem did not find any neighbors in the tractogram
+ERROR:root:PYT_R did not find any neighbors in the tractogram
+ERROR:root:ILF_R did not find any neighbors in the tractogram
+ERROR:root:PYT_L did not find any neighbors in the tractogram
+ERROR:root:SCP_L did not find any neighbors in the tractogram
+ERROR:root:SLF_R did not find any neighbors in the tractogram
+ERROR:root:UF_L did not find any neighbors in the tractogram
+ERROR:root:SCP_R did not find any neighbors in the tractogram
+ERROR:root:UF_R did not find any neighbors in the tractogram
+ERROR:root:SLF_L did not find any neighbors in the tractogram
+2024-04-05 13:38:41 blueshard.lan root[8399] INFO RBx took 56.72 sec. for 51 bundles from 1 atlas
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AC.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PC.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AF_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AF_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Fr_1.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Fr_2.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Oc.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Pa.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Pr_Po.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Te.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_An.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_Po.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_curve.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_An.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_Po.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_curve.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FAT_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FAT_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_L_Brainstem.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_R_Brainstem.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FX_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FX_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ICP_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ICP_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR IFOF_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR IFOF_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ILF_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ILF_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MCP.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MdLF_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MdLF_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR OR_ML_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR OR_ML_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_L_Brainstem.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_R_Brainstem.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_L_Brainstem.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_R_Brainstem.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SCP_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SCP_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SLF_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SLF_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR UF_L.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] ERROR UF_R.trk final recognition got 0 streamlines
+2024-04-05 13:38:41 blueshard.lan root[8399] INFO Saving of 51 files in tmp/ took 0.01 sec.

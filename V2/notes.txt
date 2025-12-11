@@ -1,0 +1,15 @@
+RULES: 
+1. All path variables must contain the full path starting from the homepath (Users/krishna/TractX)
+2. Add a "/" to the end of each directory path variable
+
+tractogen ============
+1. preproc.py
+2. fodgen.py
+3. Creating a template (OPTIONAL)
+    (a) sdTempMask.py
+    (b) fba.py 
+4. streamgen.py
+
+idBottle ============
+1. recobund.py
+2. voxelfinder.py

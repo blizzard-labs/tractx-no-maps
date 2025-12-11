@@ -1,0 +1,5 @@
+# command_history: /Users/krishna/src/mrtrix3/bin/responsemean csf.txt ../avgresponse/group_average_response_csf.txt  (version=3.0.4-57-g4e4b6d4a)
+3998.780518355540153
+224.908176112847002
+58.859818214858002
+28.859992030514000

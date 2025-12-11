@@ -1,0 +1,695 @@
+> (2024-02-23 10:28:37.630379) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 10:28:37.748633) rm CC_Fr_1.tck
+> (2024-02-23 10:31:02.097012) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 10:31:02.193231) rm CC_Fr_1.tck
+> (2024-02-23 10:38:19.664126) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 10:38:19.777105) rm CC_Fr_1.tck
+> (2024-02-23 10:38:19.782636) tck2fixel wCC_Fr_1.tck ../fixel_dict ../tdi_map/CC_Fr_1 TDI_CC_Fr_1.mif
+> (2024-02-23 10:38:19.789732) mrstats ../tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif -output max
+
+New Runtime [sample] -----
+> (2024-02-23 10:57:37.262943) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+
+New Runtime [sample] -----
+> (2024-02-23 11:14:29.892527) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 11:14:30.006439) rm CC_Fr_1.tck
+> (2024-02-23 11:14:30.011649) tck2fixel wCC_Fr_1.tck ../fixel_dict ../tdi_map/CC_Fr_1 TDI_CC_Fr_1.mif
+> (2024-02-23 11:14:30.018365) mrstats ../tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif -output max
+
+New Runtime [sample] -----
+> (2024-02-23 11:15:52.884749) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 11:15:52.984743) tck2fixel wCC_Fr_1.tck ../fixel_dict ../tdi_map/CC_Fr_1 TDI_CC_Fr_1.mif
+> (2024-02-23 11:15:52.989614) mrstats ../tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif -output max
+
+New Runtime [sample] -----
+> (2024-02-23 11:21:52.742239) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 11:21:52.876491) tck2fixel wCC_Fr_1.tck ../fixel_dict ../tdi_map/CC_Fr_1 TDI_CC_Fr_1.mif
+> (2024-02-23 11:21:52.883800) mrstats ../tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif -output max
+
+New Runtime [sample] -----
+> (2024-02-23 11:26:12.911378) tcktransform CC_Fr_1.tck m2s_inverse_warp.mif wCC_Fr_1.tck
+> (2024-02-23 11:26:13.021704) tck2fixel wCC_Fr_1.tck ../fixel_dict ../tdi_map/CC_Fr_1 TDI_CC_Fr_1.mif
+> (2024-02-23 11:26:23.774776) mrstats ../tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif -output max4300 
+
+> (2024-02-23 11:26:23.802517) mrthreshold ../tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif ../tdi_map/CC_Fr_1/thr_TDI_CC_Fr_1.mif -abs 215.0
+> (2024-02-23 11:26:24.012469) tcktransform ILF_R.tck m2s_inverse_warp.mif wILF_R.tck
+> (2024-02-23 11:26:24.117278) tck2fixel wILF_R.tck ../fixel_dict ../tdi_map/ILF_R TDI_ILF_R.mif
+> (2024-02-23 11:26:33.642768) mrstats ../tdi_map/ILF_R/TDI_ILF_R.mif -output max2728 
+
+> (2024-02-23 11:26:33.671343) mrthreshold ../tdi_map/ILF_R/TDI_ILF_R.mif ../tdi_map/ILF_R/thr_TDI_ILF_R.mif -abs 136.4
+> (2024-02-23 11:26:33.693785) tcktransform ICP_R.tck m2s_inverse_warp.mif wICP_R.tck
+> (2024-02-23 11:26:33.741411) tck2fixel wICP_R.tck ../fixel_dict ../tdi_map/ICP_R TDI_ICP_R.mif
+> (2024-02-23 11:26:37.236596) mrstats ../tdi_map/ICP_R/TDI_ICP_R.mif -output max0 
+
+> (2024-02-23 11:26:37.263096) mrthreshold ../tdi_map/ICP_R/TDI_ICP_R.mif ../tdi_map/ICP_R/thr_TDI_ICP_R.mif -abs 0.0
+> (2024-02-23 11:26:37.484982) tcktransform CC_Fr_2.tck m2s_inverse_warp.mif wCC_Fr_2.tck
+> (2024-02-23 11:26:37.651294) tck2fixel wCC_Fr_2.tck ../fixel_dict ../tdi_map/CC_Fr_2 TDI_CC_Fr_2.mif
+> (2024-02-23 11:27:01.472354) mrstats ../tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif -output max9966 
+
+> (2024-02-23 11:27:01.499445) mrthreshold ../tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif ../tdi_map/CC_Fr_2/thr_TDI_CC_Fr_2.mif -abs 498.3
+> (2024-02-23 11:27:01.524031) tcktransform CG_L_curve.tck m2s_inverse_warp.mif wCG_L_curve.tck
+> (2024-02-23 11:27:01.573263) tck2fixel wCG_L_curve.tck ../fixel_dict ../tdi_map/CG_L_curve TDI_CG_L_curve.mif
+> (2024-02-23 11:27:05.049289) mrstats ../tdi_map/CG_L_curve/TDI_CG_L_curve.mif -output max12 
+
+> (2024-02-23 11:27:05.075992) mrthreshold ../tdi_map/CG_L_curve/TDI_CG_L_curve.mif ../tdi_map/CG_L_curve/thr_TDI_CG_L_curve.mif -abs 0.6000000000000001
+> (2024-02-23 11:27:05.126816) tcktransform OR_ML_R.tck m2s_inverse_warp.mif wOR_ML_R.tck
+> (2024-02-23 11:27:05.195709) tck2fixel wOR_ML_R.tck ../fixel_dict ../tdi_map/OR_ML_R TDI_OR_ML_R.mif
+> (2024-02-23 11:27:09.198932) mrstats ../tdi_map/OR_ML_R/TDI_OR_ML_R.mif -output max5 
+
+> (2024-02-23 11:27:09.228689) mrthreshold ../tdi_map/OR_ML_R/TDI_OR_ML_R.mif ../tdi_map/OR_ML_R/thr_TDI_OR_ML_R.mif -abs 0.25
+> (2024-02-23 11:27:09.257813) tcktransform FX_L.tck m2s_inverse_warp.mif wFX_L.tck
+> (2024-02-23 11:27:09.313181) tck2fixel wFX_L.tck ../fixel_dict ../tdi_map/FX_L TDI_FX_L.mif
+> (2024-02-23 11:27:12.633634) mrstats ../tdi_map/FX_L/TDI_FX_L.mif -output max11 
+
+> (2024-02-23 11:27:12.660447) mrthreshold ../tdi_map/FX_L/TDI_FX_L.mif ../tdi_map/FX_L/thr_TDI_FX_L.mif -abs 0.55
+> (2024-02-23 11:27:12.683775) tcktransform CG_R_curve.tck m2s_inverse_warp.mif wCG_R_curve.tck
+> (2024-02-23 11:27:12.730607) tck2fixel wCG_R_curve.tck ../fixel_dict ../tdi_map/CG_R_curve TDI_CG_R_curve.mif
+> (2024-02-23 11:27:16.192355) mrstats ../tdi_map/CG_R_curve/TDI_CG_R_curve.mif -output max2 
+
+> (2024-02-23 11:27:16.221994) mrthreshold ../tdi_map/CG_R_curve/TDI_CG_R_curve.mif ../tdi_map/CG_R_curve/thr_TDI_CG_R_curve.mif -abs 0.1
+> (2024-02-23 11:27:16.270031) tcktransform IFOF_R.tck m2s_inverse_warp.mif wIFOF_R.tck
+> (2024-02-23 11:27:16.332260) tck2fixel wIFOF_R.tck ../fixel_dict ../tdi_map/IFOF_R TDI_IFOF_R.mif
+> (2024-02-23 11:27:20.407614) mrstats ../tdi_map/IFOF_R/TDI_IFOF_R.mif -output max350 
+
+> (2024-02-23 11:27:20.434707) mrthreshold ../tdi_map/IFOF_R/TDI_IFOF_R.mif ../tdi_map/IFOF_R/thr_TDI_IFOF_R.mif -abs 17.5
+> (2024-02-23 11:27:20.506451) tcktransform CG_R.tck m2s_inverse_warp.mif wCG_R.tck
+> (2024-02-23 11:27:20.577658) tck2fixel wCG_R.tck ../fixel_dict ../tdi_map/CG_R TDI_CG_R.mif
+> (2024-02-23 11:27:25.276860) mrstats ../tdi_map/CG_R/TDI_CG_R.mif -output max556 
+
+> (2024-02-23 11:27:25.306206) mrthreshold ../tdi_map/CG_R/TDI_CG_R.mif ../tdi_map/CG_R/thr_TDI_CG_R.mif -abs 27.8
+> (2024-02-23 11:27:25.333439) tcktransform MdLF_R.tck m2s_inverse_warp.mif wMdLF_R.tck
+> (2024-02-23 11:27:25.385921) tck2fixel wMdLF_R.tck ../fixel_dict ../tdi_map/MdLF_R TDI_MdLF_R.mif
+> (2024-02-23 11:27:28.726613) mrstats ../tdi_map/MdLF_R/TDI_MdLF_R.mif -output max127 
+
+> (2024-02-23 11:27:28.753412) mrthreshold ../tdi_map/MdLF_R/TDI_MdLF_R.mif ../tdi_map/MdLF_R/thr_TDI_MdLF_R.mif -abs 6.3500000000000005
+> (2024-02-23 11:27:28.827225) tcktransform CG_R_An.tck m2s_inverse_warp.mif wCG_R_An.tck
+> (2024-02-23 11:27:28.908662) tck2fixel wCG_R_An.tck ../fixel_dict ../tdi_map/CG_R_An TDI_CG_R_An.mif
+> (2024-02-23 11:27:34.264807) mrstats ../tdi_map/CG_R_An/TDI_CG_R_An.mif -output max1241 
+
+> (2024-02-23 11:27:34.292336) mrthreshold ../tdi_map/CG_R_An/TDI_CG_R_An.mif ../tdi_map/CG_R_An/thr_TDI_CG_R_An.mif -abs 62.050000000000004
+> (2024-02-23 11:27:34.384716) tcktransform PYT_L.tck m2s_inverse_warp.mif wPYT_L.tck
+> (2024-02-23 11:27:34.479067) tck2fixel wPYT_L.tck ../fixel_dict ../tdi_map/PYT_L TDI_PYT_L.mif
+> (2024-02-23 11:27:40.879370) mrstats ../tdi_map/PYT_L/TDI_PYT_L.mif -output max2265 
+
+> (2024-02-23 11:27:40.906291) mrthreshold ../tdi_map/PYT_L/TDI_PYT_L.mif ../tdi_map/PYT_L/thr_TDI_PYT_L.mif -abs 113.25
+> (2024-02-23 11:27:40.972111) tcktransform POPT_R.tck m2s_inverse_warp.mif wPOPT_R.tck
+> (2024-02-23 11:27:41.057771) tck2fixel wPOPT_R.tck ../fixel_dict ../tdi_map/POPT_R TDI_POPT_R.mif
+> (2024-02-23 11:27:46.990102) mrstats ../tdi_map/POPT_R/TDI_POPT_R.mif -output max1575 
+
+> (2024-02-23 11:27:47.022775) mrthreshold ../tdi_map/POPT_R/TDI_POPT_R.mif ../tdi_map/POPT_R/thr_TDI_POPT_R.mif -abs 78.75
+> (2024-02-23 11:27:47.074463) tcktransform UF_R.tck m2s_inverse_warp.mif wUF_R.tck
+> (2024-02-23 11:27:47.146542) tck2fixel wUF_R.tck ../fixel_dict ../tdi_map/UF_R TDI_UF_R.mif
+> (2024-02-23 11:27:51.216355) mrstats ../tdi_map/UF_R/TDI_UF_R.mif -output max564 
+
+> (2024-02-23 11:27:51.244189) mrthreshold ../tdi_map/UF_R/TDI_UF_R.mif ../tdi_map/UF_R/thr_TDI_UF_R.mif -abs 28.200000000000003
+> (2024-02-23 11:27:51.298757) tcktransform PYT_L_Brainstem.tck m2s_inverse_warp.mif wPYT_L_Brainstem.tck
+> (2024-02-23 11:27:51.558252) tck2fixel wPYT_L_Brainstem.tck ../fixel_dict ../tdi_map/PYT_L_Brainstem TDI_PYT_L_Brainstem.mif
+> (2024-02-23 11:27:57.200204) mrstats ../tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif -output max1176 
+
+> (2024-02-23 11:27:57.229001) mrthreshold ../tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif ../tdi_map/PYT_L_Brainstem/thr_TDI_PYT_L_Brainstem.mif -abs 58.800000000000004
+> (2024-02-23 11:27:57.319713) tcktransform AF_R.tck m2s_inverse_warp.mif wAF_R.tck
+> (2024-02-23 11:27:57.420314) tck2fixel wAF_R.tck ../fixel_dict ../tdi_map/AF_R TDI_AF_R.mif
+> (2024-02-23 11:28:06.538590) mrstats ../tdi_map/AF_R/TDI_AF_R.mif -output max2626 
+
+> (2024-02-23 11:28:06.568474) mrthreshold ../tdi_map/AF_R/TDI_AF_R.mif ../tdi_map/AF_R/thr_TDI_AF_R.mif -abs 131.3
+> (2024-02-23 11:28:06.606713) tcktransform FPT_R.tck m2s_inverse_warp.mif wFPT_R.tck
+> (2024-02-23 11:28:06.663218) tck2fixel wFPT_R.tck ../fixel_dict ../tdi_map/FPT_R TDI_FPT_R.mif
+> (2024-02-23 11:28:10.228073) mrstats ../tdi_map/FPT_R/TDI_FPT_R.mif -output max239 
+
+> (2024-02-23 11:28:10.254850) mrthreshold ../tdi_map/FPT_R/TDI_FPT_R.mif ../tdi_map/FPT_R/thr_TDI_FPT_R.mif -abs 11.950000000000001
+> (2024-02-23 11:28:10.315040) tcktransform FAT_L.tck m2s_inverse_warp.mif wFAT_L.tck
+> (2024-02-23 11:28:10.383710) tck2fixel wFAT_L.tck ../fixel_dict ../tdi_map/FAT_L TDI_FAT_L.mif
+> (2024-02-23 11:28:15.961262) mrstats ../tdi_map/FAT_L/TDI_FAT_L.mif -output max1569 
+
+> (2024-02-23 11:28:15.990556) mrthreshold ../tdi_map/FAT_L/TDI_FAT_L.mif ../tdi_map/FAT_L/thr_TDI_FAT_L.mif -abs 78.45
+> (2024-02-23 11:28:16.054836) tcktransform CG_L_An.tck m2s_inverse_warp.mif wCG_L_An.tck
+> (2024-02-23 11:28:16.139731) tck2fixel wCG_L_An.tck ../fixel_dict ../tdi_map/CG_L_An TDI_CG_L_An.mif
+> (2024-02-23 11:28:21.734342) mrstats ../tdi_map/CG_L_An/TDI_CG_L_An.mif -output max1242 
+
+> (2024-02-23 11:28:21.761779) mrthreshold ../tdi_map/CG_L_An/TDI_CG_L_An.mif ../tdi_map/CG_L_An/thr_TDI_CG_L_An.mif -abs 62.1
+> (2024-02-23 11:28:21.808390) tcktransform SCP_L.tck m2s_inverse_warp.mif wSCP_L.tck
+> (2024-02-23 11:28:21.863707) tck2fixel wSCP_L.tck ../fixel_dict ../tdi_map/SCP_L TDI_SCP_L.mif
+> (2024-02-23 11:28:25.637400) mrstats ../tdi_map/SCP_L/TDI_SCP_L.mif -output max175 
+
+> (2024-02-23 11:28:25.669504) mrthreshold ../tdi_map/SCP_L/TDI_SCP_L.mif ../tdi_map/SCP_L/thr_TDI_SCP_L.mif -abs 8.75
+> (2024-02-23 11:28:25.757041) tcktransform SLF_L.tck m2s_inverse_warp.mif wSLF_L.tck
+> (2024-02-23 11:28:25.828901) tck2fixel wSLF_L.tck ../fixel_dict ../tdi_map/SLF_L TDI_SLF_L.mif
+> (2024-02-23 11:28:30.190220) mrstats ../tdi_map/SLF_L/TDI_SLF_L.mif -output max711 
+
+> (2024-02-23 11:28:30.217455) mrthreshold ../tdi_map/SLF_L/TDI_SLF_L.mif ../tdi_map/SLF_L/thr_TDI_SLF_L.mif -abs 35.550000000000004
+> (2024-02-23 11:28:30.240987) tcktransform CC_Te.tck m2s_inverse_warp.mif wCC_Te.tck
+> (2024-02-23 11:28:30.290158) tck2fixel wCC_Te.tck ../fixel_dict ../tdi_map/CC_Te TDI_CC_Te.mif
+> (2024-02-23 11:28:33.538388) mrstats ../tdi_map/CC_Te/TDI_CC_Te.mif -output max8 
+
+> (2024-02-23 11:28:33.569024) mrthreshold ../tdi_map/CC_Te/TDI_CC_Te.mif ../tdi_map/CC_Te/thr_TDI_CC_Te.mif -abs 0.4
+> (2024-02-23 11:28:33.616082) tcktransform UF_L.tck m2s_inverse_warp.mif wUF_L.tck
+> (2024-02-23 11:28:33.664929) tck2fixel wUF_L.tck ../fixel_dict ../tdi_map/UF_L TDI_UF_L.mif
+> (2024-02-23 11:28:37.214530) mrstats ../tdi_map/UF_L/TDI_UF_L.mif -output max213 
+
+> (2024-02-23 11:28:37.241225) mrthreshold ../tdi_map/UF_L/TDI_UF_L.mif ../tdi_map/UF_L/thr_TDI_UF_L.mif -abs 10.65
+> (2024-02-23 11:28:37.324418) tcktransform AF_L.tck m2s_inverse_warp.mif wAF_L.tck
+> (2024-02-23 11:28:37.409541) tck2fixel wAF_L.tck ../fixel_dict ../tdi_map/AF_L TDI_AF_L.mif
+> (2024-02-23 11:28:43.154541) mrstats ../tdi_map/AF_L/TDI_AF_L.mif -output max1491 
+
+> (2024-02-23 11:28:43.182359) mrthreshold ../tdi_map/AF_L/TDI_AF_L.mif ../tdi_map/AF_L/thr_TDI_AF_L.mif -abs 74.55
+> (2024-02-23 11:28:43.213124) tcktransform FPT_L.tck m2s_inverse_warp.mif wFPT_L.tck
+> (2024-02-23 11:28:43.275150) tck2fixel wFPT_L.tck ../fixel_dict ../tdi_map/FPT_L TDI_FPT_L.mif
+> (2024-02-23 11:28:47.261239) mrstats ../tdi_map/FPT_L/TDI_FPT_L.mif -output max372 
+
+> (2024-02-23 11:28:47.288348) mrthreshold ../tdi_map/FPT_L/TDI_FPT_L.mif ../tdi_map/FPT_L/thr_TDI_FPT_L.mif -abs 18.6
+> (2024-02-23 11:28:47.372094) tcktransform CC_Oc.tck m2s_inverse_warp.mif wCC_Oc.tck
+> (2024-02-23 11:28:47.465097) tck2fixel wCC_Oc.tck ../fixel_dict ../tdi_map/CC_Oc TDI_CC_Oc.mif
+> (2024-02-23 11:28:53.891738) mrstats ../tdi_map/CC_Oc/TDI_CC_Oc.mif -output max1 
+
+> (2024-02-23 11:28:53.920179) mrthreshold ../tdi_map/CC_Oc/TDI_CC_Oc.mif ../tdi_map/CC_Oc/thr_TDI_CC_Oc.mif -abs 0.05
+> (2024-02-23 11:28:53.964417) tcktransform FAT_R.tck m2s_inverse_warp.mif wFAT_R.tck
+> (2024-02-23 11:28:54.030641) tck2fixel wFAT_R.tck ../fixel_dict ../tdi_map/FAT_R TDI_FAT_R.mif
+> (2024-02-23 11:28:58.629138) mrstats ../tdi_map/FAT_R/TDI_FAT_R.mif -output max789 
+
+> (2024-02-23 11:28:58.659104) mrthreshold ../tdi_map/FAT_R/TDI_FAT_R.mif ../tdi_map/FAT_R/thr_TDI_FAT_R.mif -abs 39.45
+> (2024-02-23 11:28:58.694121) tcktransform SCP_R.tck m2s_inverse_warp.mif wSCP_R.tck
+> (2024-02-23 11:28:58.796692) tck2fixel wSCP_R.tck ../fixel_dict ../tdi_map/SCP_R TDI_SCP_R.mif
+> (2024-02-23 11:29:02.973155) mrstats ../tdi_map/SCP_R/TDI_SCP_R.mif -output max125 
+
+> (2024-02-23 11:29:03.007044) mrthreshold ../tdi_map/SCP_R/TDI_SCP_R.mif ../tdi_map/SCP_R/thr_TDI_SCP_R.mif -abs 6.25
+> (2024-02-23 11:29:03.038544) tcktransform SLF_R.tck m2s_inverse_warp.mif wSLF_R.tck
+> (2024-02-23 11:29:03.099366) tck2fixel wSLF_R.tck ../fixel_dict ../tdi_map/SLF_R TDI_SLF_R.mif
+> (2024-02-23 11:29:06.860120) mrstats ../tdi_map/SLF_R/TDI_SLF_R.mif -output max365 
+
+> (2024-02-23 11:29:06.888855) mrthreshold ../tdi_map/SLF_R/TDI_SLF_R.mif ../tdi_map/SLF_R/thr_TDI_SLF_R.mif -abs 18.25
+> (2024-02-23 11:29:06.923626) tcktransform CG_R_Po.tck m2s_inverse_warp.mif wCG_R_Po.tck
+> (2024-02-23 11:29:06.978593) tck2fixel wCG_R_Po.tck ../fixel_dict ../tdi_map/CG_R_Po TDI_CG_R_Po.mif
+> (2024-02-23 11:29:11.099185) mrstats ../tdi_map/CG_R_Po/TDI_CG_R_Po.mif -output max5 
+
+> (2024-02-23 11:29:11.126771) mrthreshold ../tdi_map/CG_R_Po/TDI_CG_R_Po.mif ../tdi_map/CG_R_Po/thr_TDI_CG_R_Po.mif -abs 0.25
+> (2024-02-23 11:29:11.149455) tcktransform PYT_R_Brainstem.tck m2s_inverse_warp.mif wPYT_R_Brainstem.tck
+> (2024-02-23 11:29:11.194996) tck2fixel wPYT_R_Brainstem.tck ../fixel_dict ../tdi_map/PYT_R_Brainstem TDI_PYT_R_Brainstem.mif
+> (2024-02-23 11:29:14.406455) mrstats ../tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif -output max1 
+
+> (2024-02-23 11:29:14.434746) mrthreshold ../tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif ../tdi_map/PYT_R_Brainstem/thr_TDI_PYT_R_Brainstem.mif -abs 0.05
+> (2024-02-23 11:29:14.546003) tcktransform CC_Pa.tck m2s_inverse_warp.mif wCC_Pa.tck
+> (2024-02-23 11:29:14.656762) tck2fixel wCC_Pa.tck ../fixel_dict ../tdi_map/CC_Pa TDI_CC_Pa.mif
+> (2024-02-23 11:29:21.999913) mrstats ../tdi_map/CC_Pa/TDI_CC_Pa.mif -output max50 
+
+> (2024-02-23 11:29:22.033085) mrthreshold ../tdi_map/CC_Pa/TDI_CC_Pa.mif ../tdi_map/CC_Pa/thr_TDI_CC_Pa.mif -abs 2.5
+> (2024-02-23 11:29:22.187566) tcktransform ILF_L.tck m2s_inverse_warp.mif wILF_L.tck
+> (2024-02-23 11:29:22.285736) tck2fixel wILF_L.tck ../fixel_dict ../tdi_map/ILF_L TDI_ILF_L.mif
+> (2024-02-23 11:29:30.711364) mrstats ../tdi_map/ILF_L/TDI_ILF_L.mif -output max1198 
+
+> (2024-02-23 11:29:30.743716) mrthreshold ../tdi_map/ILF_L/TDI_ILF_L.mif ../tdi_map/ILF_L/thr_TDI_ILF_L.mif -abs 59.900000000000006
+> (2024-02-23 11:29:30.789827) tcktransform ICP_L.tck m2s_inverse_warp.mif wICP_L.tck
+> (2024-02-23 11:29:30.850532) tck2fixel wICP_L.tck ../fixel_dict ../tdi_map/ICP_L TDI_ICP_L.mif
+> (2024-02-23 11:29:34.878985) mrstats ../tdi_map/ICP_L/TDI_ICP_L.mif -output max24 
+
+> (2024-02-23 11:29:34.906050) mrthreshold ../tdi_map/ICP_L/TDI_ICP_L.mif ../tdi_map/ICP_L/thr_TDI_ICP_L.mif -abs 1.2000000000000002
+> (2024-02-23 11:29:35.091649) tcktransform CC_Pr_Po.tck m2s_inverse_warp.mif wCC_Pr_Po.tck
+> (2024-02-23 11:29:35.235267) tck2fixel wCC_Pr_Po.tck ../fixel_dict ../tdi_map/CC_Pr_Po TDI_CC_Pr_Po.mif
+> (2024-02-23 11:29:47.937870) mrstats ../tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif -output max3178 
+
+> (2024-02-23 11:29:47.967720) mrthreshold ../tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif ../tdi_map/CC_Pr_Po/thr_TDI_CC_Pr_Po.mif -abs 158.9
+> (2024-02-23 11:29:48.047313) tcktransform OR_ML_L.tck m2s_inverse_warp.mif wOR_ML_L.tck
+> (2024-02-23 11:29:48.142017) tck2fixel wOR_ML_L.tck ../fixel_dict ../tdi_map/OR_ML_L TDI_OR_ML_L.mif
+> (2024-02-23 11:29:53.760750) mrstats ../tdi_map/OR_ML_L/TDI_OR_ML_L.mif -output max1 
+
+> (2024-02-23 11:29:53.791704) mrthreshold ../tdi_map/OR_ML_L/TDI_OR_ML_L.mif ../tdi_map/OR_ML_L/thr_TDI_OR_ML_L.mif -abs 0.05
+> (2024-02-23 11:29:53.825591) tcktransform FX_R.tck m2s_inverse_warp.mif wFX_R.tck
+> (2024-02-23 11:29:53.891054) tck2fixel wFX_R.tck ../fixel_dict ../tdi_map/FX_R TDI_FX_R.mif
+> (2024-02-23 11:29:57.981863) mrstats ../tdi_map/FX_R/TDI_FX_R.mif -output max52 
+
+> (2024-02-23 11:29:58.011194) mrthreshold ../tdi_map/FX_R/TDI_FX_R.mif ../tdi_map/FX_R/thr_TDI_FX_R.mif -abs 2.6
+> (2024-02-23 11:29:58.047030) tcktransform IFOF_L.tck m2s_inverse_warp.mif wIFOF_L.tck
+> (2024-02-23 11:29:58.119367) tck2fixel wIFOF_L.tck ../fixel_dict ../tdi_map/IFOF_L TDI_IFOF_L.mif
+> (2024-02-23 11:30:02.748255) mrstats ../tdi_map/IFOF_L/TDI_IFOF_L.mif -output max443 
+
+> (2024-02-23 11:30:02.778360) mrthreshold ../tdi_map/IFOF_L/TDI_IFOF_L.mif ../tdi_map/IFOF_L/thr_TDI_IFOF_L.mif -abs 22.150000000000002
+> (2024-02-23 11:30:02.847344) tcktransform CG_L.tck m2s_inverse_warp.mif wCG_L.tck
+> (2024-02-23 11:30:02.923595) tck2fixel wCG_L.tck ../fixel_dict ../tdi_map/CG_L TDI_CG_L.mif
+> (2024-02-23 11:30:08.424839) mrstats ../tdi_map/CG_L/TDI_CG_L.mif -output max749 
+
+> (2024-02-23 11:30:08.455486) mrthreshold ../tdi_map/CG_L/TDI_CG_L.mif ../tdi_map/CG_L/thr_TDI_CG_L.mif -abs 37.45
+> (2024-02-23 11:30:08.484871) tcktransform MdLF_L.tck m2s_inverse_warp.mif wMdLF_L.tck
+> (2024-02-23 11:30:08.544237) tck2fixel wMdLF_L.tck ../fixel_dict ../tdi_map/MdLF_L TDI_MdLF_L.mif
+> (2024-02-23 11:30:12.321173) mrstats ../tdi_map/MdLF_L/TDI_MdLF_L.mif -output max4 
+
+> (2024-02-23 11:30:12.351119) mrthreshold ../tdi_map/MdLF_L/TDI_MdLF_L.mif ../tdi_map/MdLF_L/thr_TDI_MdLF_L.mif -abs 0.2
+> (2024-02-23 11:30:12.394834) tcktransform CG_L_Po.tck m2s_inverse_warp.mif wCG_L_Po.tck
+> (2024-02-23 11:30:12.456177) tck2fixel wCG_L_Po.tck ../fixel_dict ../tdi_map/CG_L_Po TDI_CG_L_Po.mif
+> (2024-02-23 11:30:16.700674) mrstats ../tdi_map/CG_L_Po/TDI_CG_L_Po.mif -output max6 
+
+> (2024-02-23 11:30:16.729627) mrthreshold ../tdi_map/CG_L_Po/TDI_CG_L_Po.mif ../tdi_map/CG_L_Po/thr_TDI_CG_L_Po.mif -abs 0.30000000000000004
+> (2024-02-23 11:30:16.805236) tcktransform POPT_L.tck m2s_inverse_warp.mif wPOPT_L.tck
+> (2024-02-23 11:30:16.911721) tck2fixel wPOPT_L.tck ../fixel_dict ../tdi_map/POPT_L TDI_POPT_L.mif
+> (2024-02-23 11:30:23.979597) mrstats ../tdi_map/POPT_L/TDI_POPT_L.mif -output max2132 
+
+> (2024-02-23 11:30:24.010451) mrthreshold ../tdi_map/POPT_L/TDI_POPT_L.mif ../tdi_map/POPT_L/thr_TDI_POPT_L.mif -abs 106.60000000000001
+> (2024-02-23 11:30:24.107855) tcktransform PYT_R.tck m2s_inverse_warp.mif wPYT_R.tck
+> (2024-02-23 11:30:24.296426) tck2fixel wPYT_R.tck ../fixel_dict ../tdi_map/PYT_R TDI_PYT_R.mif
+> (2024-02-23 11:30:32.090616) mrstats ../tdi_map/PYT_R/TDI_PYT_R.mif -output max2341 
+
+> (2024-02-23 11:30:32.125689) mrthreshold ../tdi_map/PYT_R/TDI_PYT_R.mif ../tdi_map/PYT_R/thr_TDI_PYT_R.mif -abs 117.05000000000001
+> (2024-02-23 11:30:32.150191) mrconvert fixel_dict/index.mif fixel_dict/index.nii.gz
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+> (2024-02-27 22:21:51.498659) mrconvert tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/TDI_CC_Fr_1.nii.gz
+> (2024-02-27 22:21:53.308405) mrconvert tdi_map/ILF_R/TDI_ILF_R.mif tdi_map/ILF_R/TDI_ILF_R.nii.gz
+> (2024-02-27 22:21:55.066161) mrconvert tdi_map/ICP_R/TDI_ICP_R.mif tdi_map/ICP_R/TDI_ICP_R.nii.gz
+> (2024-02-27 22:21:56.765176) mrconvert tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/TDI_CC_Fr_2.nii.gz
+> (2024-02-27 22:21:58.456154) mrconvert tdi_map/CG_L_curve/TDI_CG_L_curve.mif tdi_map/CG_L_curve/TDI_CG_L_curve.nii.gz
+> (2024-02-27 22:22:00.138760) mrconvert tdi_map/OR_ML_R/TDI_OR_ML_R.mif tdi_map/OR_ML_R/TDI_OR_ML_R.nii.gz
+> (2024-02-27 22:22:01.826230) mrconvert tdi_map/FX_L/TDI_FX_L.mif tdi_map/FX_L/TDI_FX_L.nii.gz
+> (2024-02-27 22:22:03.507356) mrconvert tdi_map/CG_R_curve/TDI_CG_R_curve.mif tdi_map/CG_R_curve/TDI_CG_R_curve.nii.gz
+> (2024-02-27 22:22:05.188033) mrconvert tdi_map/IFOF_R/TDI_IFOF_R.mif tdi_map/IFOF_R/TDI_IFOF_R.nii.gz
+> (2024-02-27 22:22:06.874743) mrconvert tdi_map/CG_R/TDI_CG_R.mif tdi_map/CG_R/TDI_CG_R.nii.gz
+> (2024-02-27 22:22:08.559307) mrconvert tdi_map/MdLF_R/TDI_MdLF_R.mif tdi_map/MdLF_R/TDI_MdLF_R.nii.gz
+> (2024-02-27 22:22:10.236407) mrconvert tdi_map/CG_R_An/TDI_CG_R_An.mif tdi_map/CG_R_An/TDI_CG_R_An.nii.gz
+> (2024-02-27 22:22:11.917193) mrconvert tdi_map/PYT_L/TDI_PYT_L.mif tdi_map/PYT_L/TDI_PYT_L.nii.gz
+> (2024-02-27 22:22:13.597493) mrconvert tdi_map/POPT_R/TDI_POPT_R.mif tdi_map/POPT_R/TDI_POPT_R.nii.gz
+> (2024-02-27 22:22:15.274463) mrconvert tdi_map/UF_R/TDI_UF_R.mif tdi_map/UF_R/TDI_UF_R.nii.gz
+> (2024-02-27 22:22:16.956815) mrconvert tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.nii.gz
+> (2024-02-27 22:22:18.638714) mrconvert tdi_map/AF_R/TDI_AF_R.mif tdi_map/AF_R/TDI_AF_R.nii.gz
+> (2024-02-27 22:22:20.326196) mrconvert tdi_map/FPT_R/TDI_FPT_R.mif tdi_map/FPT_R/TDI_FPT_R.nii.gz
+> (2024-02-27 22:22:22.008516) mrconvert tdi_map/FAT_L/TDI_FAT_L.mif tdi_map/FAT_L/TDI_FAT_L.nii.gz
+> (2024-02-27 22:22:23.693637) mrconvert tdi_map/CG_L_An/TDI_CG_L_An.mif tdi_map/CG_L_An/TDI_CG_L_An.nii.gz
+> (2024-02-27 22:22:25.376593) mrconvert tdi_map/SCP_L/TDI_SCP_L.mif tdi_map/SCP_L/TDI_SCP_L.nii.gz
+> (2024-02-27 22:22:27.073178) mrconvert tdi_map/SLF_L/TDI_SLF_L.mif tdi_map/SLF_L/TDI_SLF_L.nii.gz
+> (2024-02-27 22:22:28.758367) mrconvert tdi_map/CC_Te/TDI_CC_Te.mif tdi_map/CC_Te/TDI_CC_Te.nii.gz
+> (2024-02-27 22:22:30.449072) mrconvert tdi_map/UF_L/TDI_UF_L.mif tdi_map/UF_L/TDI_UF_L.nii.gz
+> (2024-02-27 22:22:32.138442) mrconvert tdi_map/AF_L/TDI_AF_L.mif tdi_map/AF_L/TDI_AF_L.nii.gz
+> (2024-02-27 22:22:33.831238) mrconvert tdi_map/FPT_L/TDI_FPT_L.mif tdi_map/FPT_L/TDI_FPT_L.nii.gz
+> (2024-02-27 22:22:35.520388) mrconvert tdi_map/CC_Oc/TDI_CC_Oc.mif tdi_map/CC_Oc/TDI_CC_Oc.nii.gz
+> (2024-02-27 22:22:37.206121) mrconvert tdi_map/FAT_R/TDI_FAT_R.mif tdi_map/FAT_R/TDI_FAT_R.nii.gz
+> (2024-02-27 22:22:38.932094) mrconvert tdi_map/SCP_R/TDI_SCP_R.mif tdi_map/SCP_R/TDI_SCP_R.nii.gz
+> (2024-02-27 22:22:40.633378) mrconvert tdi_map/SLF_R/TDI_SLF_R.mif tdi_map/SLF_R/TDI_SLF_R.nii.gz
+> (2024-02-27 22:22:42.358404) mrconvert tdi_map/CG_R_Po/TDI_CG_R_Po.mif tdi_map/CG_R_Po/TDI_CG_R_Po.nii.gz
+> (2024-02-27 22:22:44.066234) mrconvert tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.nii.gz
+> (2024-02-27 22:22:45.761313) mrconvert tdi_map/CC_Pa/TDI_CC_Pa.mif tdi_map/CC_Pa/TDI_CC_Pa.nii.gz
+> (2024-02-27 22:22:47.452485) mrconvert tdi_map/ILF_L/TDI_ILF_L.mif tdi_map/ILF_L/TDI_ILF_L.nii.gz
+> (2024-02-27 22:22:49.132222) mrconvert tdi_map/ICP_L/TDI_ICP_L.mif tdi_map/ICP_L/TDI_ICP_L.nii.gz
+> (2024-02-27 22:22:50.824896) mrconvert tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.nii.gz
+> (2024-02-27 22:22:52.513539) mrconvert tdi_map/OR_ML_L/TDI_OR_ML_L.mif tdi_map/OR_ML_L/TDI_OR_ML_L.nii.gz
+> (2024-02-27 22:22:54.222588) mrconvert tdi_map/FX_R/TDI_FX_R.mif tdi_map/FX_R/TDI_FX_R.nii.gz
+> (2024-02-27 22:22:55.917901) mrconvert tdi_map/IFOF_L/TDI_IFOF_L.mif tdi_map/IFOF_L/TDI_IFOF_L.nii.gz
+> (2024-02-27 22:22:57.633832) mrconvert tdi_map/CG_L/TDI_CG_L.mif tdi_map/CG_L/TDI_CG_L.nii.gz
+> (2024-02-27 22:22:59.346851) mrconvert tdi_map/MdLF_L/TDI_MdLF_L.mif tdi_map/MdLF_L/TDI_MdLF_L.nii.gz
+> (2024-02-27 22:23:01.040912) mrconvert tdi_map/CG_L_Po/TDI_CG_L_Po.mif tdi_map/CG_L_Po/TDI_CG_L_Po.nii.gz
+> (2024-02-27 22:23:02.727594) mrconvert tdi_map/POPT_L/TDI_POPT_L.mif tdi_map/POPT_L/TDI_POPT_L.nii.gz
+> (2024-02-27 22:23:04.413777) mrconvert tdi_map/PYT_R/TDI_PYT_R.mif tdi_map/PYT_R/TDI_PYT_R.nii.gz
+
+New Runtime [sample] -----
+> (2024-02-27 22:23:45.590827) mrconvert tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/TDI_CC_Fr_1.nii.gz
+> (2024-02-27 22:23:47.271935) mrconvert tdi_map/ILF_R/TDI_ILF_R.mif tdi_map/ILF_R/TDI_ILF_R.nii.gz
+> (2024-02-27 22:23:48.888728) mrconvert tdi_map/ICP_R/TDI_ICP_R.mif tdi_map/ICP_R/TDI_ICP_R.nii.gz
+> (2024-02-27 22:23:50.527143) mrconvert tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/TDI_CC_Fr_2.nii.gz
+> (2024-02-27 22:23:52.159474) mrconvert tdi_map/CG_L_curve/TDI_CG_L_curve.mif tdi_map/CG_L_curve/TDI_CG_L_curve.nii.gz
+> (2024-02-27 22:23:53.982719) mrconvert tdi_map/OR_ML_R/TDI_OR_ML_R.mif tdi_map/OR_ML_R/TDI_OR_ML_R.nii.gz
+> (2024-02-27 22:23:55.800531) mrconvert tdi_map/FX_L/TDI_FX_L.mif tdi_map/FX_L/TDI_FX_L.nii.gz
+> (2024-02-27 22:23:57.522335) mrconvert tdi_map/CG_R_curve/TDI_CG_R_curve.mif tdi_map/CG_R_curve/TDI_CG_R_curve.nii.gz
+> (2024-02-27 22:23:59.191928) mrconvert tdi_map/IFOF_R/TDI_IFOF_R.mif tdi_map/IFOF_R/TDI_IFOF_R.nii.gz
+> (2024-02-27 22:24:00.855871) mrconvert tdi_map/CG_R/TDI_CG_R.mif tdi_map/CG_R/TDI_CG_R.nii.gz
+> (2024-02-27 22:24:02.550064) mrconvert tdi_map/MdLF_R/TDI_MdLF_R.mif tdi_map/MdLF_R/TDI_MdLF_R.nii.gz
+> (2024-02-27 22:24:04.299693) mrconvert tdi_map/CG_R_An/TDI_CG_R_An.mif tdi_map/CG_R_An/TDI_CG_R_An.nii.gz
+> (2024-02-27 22:24:05.976256) mrconvert tdi_map/PYT_L/TDI_PYT_L.mif tdi_map/PYT_L/TDI_PYT_L.nii.gz
+> (2024-02-27 22:24:07.643009) mrconvert tdi_map/POPT_R/TDI_POPT_R.mif tdi_map/POPT_R/TDI_POPT_R.nii.gz
+> (2024-02-27 22:24:09.286596) mrconvert tdi_map/UF_R/TDI_UF_R.mif tdi_map/UF_R/TDI_UF_R.nii.gz
+> (2024-02-27 22:24:10.939592) mrconvert tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.nii.gz
+> (2024-02-27 22:24:12.583945) mrconvert tdi_map/AF_R/TDI_AF_R.mif tdi_map/AF_R/TDI_AF_R.nii.gz
+> (2024-02-27 22:24:14.236047) mrconvert tdi_map/FPT_R/TDI_FPT_R.mif tdi_map/FPT_R/TDI_FPT_R.nii.gz
+> (2024-02-27 22:24:15.888407) mrconvert tdi_map/FAT_L/TDI_FAT_L.mif tdi_map/FAT_L/TDI_FAT_L.nii.gz
+> (2024-02-27 22:24:17.545461) mrconvert tdi_map/CG_L_An/TDI_CG_L_An.mif tdi_map/CG_L_An/TDI_CG_L_An.nii.gz
+> (2024-02-27 22:24:19.194481) mrconvert tdi_map/SCP_L/TDI_SCP_L.mif tdi_map/SCP_L/TDI_SCP_L.nii.gz
+> (2024-02-27 22:24:20.840811) mrconvert tdi_map/SLF_L/TDI_SLF_L.mif tdi_map/SLF_L/TDI_SLF_L.nii.gz
+> (2024-02-27 22:24:22.497903) mrconvert tdi_map/CC_Te/TDI_CC_Te.mif tdi_map/CC_Te/TDI_CC_Te.nii.gz
+> (2024-02-27 22:24:24.161083) mrconvert tdi_map/UF_L/TDI_UF_L.mif tdi_map/UF_L/TDI_UF_L.nii.gz
+> (2024-02-27 22:24:25.821090) mrconvert tdi_map/AF_L/TDI_AF_L.mif tdi_map/AF_L/TDI_AF_L.nii.gz
+> (2024-02-27 22:24:27.479781) mrconvert tdi_map/FPT_L/TDI_FPT_L.mif tdi_map/FPT_L/TDI_FPT_L.nii.gz
+> (2024-02-27 22:24:29.133816) mrconvert tdi_map/CC_Oc/TDI_CC_Oc.mif tdi_map/CC_Oc/TDI_CC_Oc.nii.gz
+> (2024-02-27 22:24:30.789730) mrconvert tdi_map/FAT_R/TDI_FAT_R.mif tdi_map/FAT_R/TDI_FAT_R.nii.gz
+> (2024-02-27 22:24:32.447255) mrconvert tdi_map/SCP_R/TDI_SCP_R.mif tdi_map/SCP_R/TDI_SCP_R.nii.gz
+> (2024-02-27 22:24:34.107310) mrconvert tdi_map/SLF_R/TDI_SLF_R.mif tdi_map/SLF_R/TDI_SLF_R.nii.gz
+> (2024-02-27 22:24:35.764069) mrconvert tdi_map/CG_R_Po/TDI_CG_R_Po.mif tdi_map/CG_R_Po/TDI_CG_R_Po.nii.gz
+> (2024-02-27 22:24:37.422677) mrconvert tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.nii.gz
+> (2024-02-27 22:24:39.074523) mrconvert tdi_map/CC_Pa/TDI_CC_Pa.mif tdi_map/CC_Pa/TDI_CC_Pa.nii.gz
+> (2024-02-27 22:24:40.745820) mrconvert tdi_map/ILF_L/TDI_ILF_L.mif tdi_map/ILF_L/TDI_ILF_L.nii.gz
+> (2024-02-27 22:24:42.399234) mrconvert tdi_map/ICP_L/TDI_ICP_L.mif tdi_map/ICP_L/TDI_ICP_L.nii.gz
+> (2024-02-27 22:24:44.054071) mrconvert tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.nii.gz
+> (2024-02-27 22:24:45.710344) mrconvert tdi_map/OR_ML_L/TDI_OR_ML_L.mif tdi_map/OR_ML_L/TDI_OR_ML_L.nii.gz
+> (2024-02-27 22:24:47.356198) mrconvert tdi_map/FX_R/TDI_FX_R.mif tdi_map/FX_R/TDI_FX_R.nii.gz
+> (2024-02-27 22:24:49.003329) mrconvert tdi_map/IFOF_L/TDI_IFOF_L.mif tdi_map/IFOF_L/TDI_IFOF_L.nii.gz
+> (2024-02-27 22:24:50.654538) mrconvert tdi_map/CG_L/TDI_CG_L.mif tdi_map/CG_L/TDI_CG_L.nii.gz
+> (2024-02-27 22:24:52.309379) mrconvert tdi_map/MdLF_L/TDI_MdLF_L.mif tdi_map/MdLF_L/TDI_MdLF_L.nii.gz
+> (2024-02-27 22:24:53.978351) mrconvert tdi_map/CG_L_Po/TDI_CG_L_Po.mif tdi_map/CG_L_Po/TDI_CG_L_Po.nii.gz
+> (2024-02-27 22:24:55.631379) mrconvert tdi_map/POPT_L/TDI_POPT_L.mif tdi_map/POPT_L/TDI_POPT_L.nii.gz
+> (2024-02-27 22:24:57.277834) mrconvert tdi_map/PYT_R/TDI_PYT_R.mif tdi_map/PYT_R/TDI_PYT_R.nii.gz
+
+New Runtime [sample] -----
+> (2024-02-27 22:27:30.104320) mrconvert tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/TDI_CC_Fr_1.nii.gz
+> (2024-02-27 22:27:31.808760) mrconvert tdi_map/ILF_R/TDI_ILF_R.mif tdi_map/ILF_R/TDI_ILF_R.nii.gz
+> (2024-02-27 22:27:33.442184) mrconvert tdi_map/ICP_R/TDI_ICP_R.mif tdi_map/ICP_R/TDI_ICP_R.nii.gz
+> (2024-02-27 22:27:35.086195) mrconvert tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/TDI_CC_Fr_2.nii.gz
+> (2024-02-27 22:27:36.732595) mrconvert tdi_map/CG_L_curve/TDI_CG_L_curve.mif tdi_map/CG_L_curve/TDI_CG_L_curve.nii.gz
+> (2024-02-27 22:27:38.378942) mrconvert tdi_map/OR_ML_R/TDI_OR_ML_R.mif tdi_map/OR_ML_R/TDI_OR_ML_R.nii.gz
+> (2024-02-27 22:27:40.086668) mrconvert tdi_map/FX_L/TDI_FX_L.mif tdi_map/FX_L/TDI_FX_L.nii.gz
+> (2024-02-27 22:27:41.729439) mrconvert tdi_map/CG_R_curve/TDI_CG_R_curve.mif tdi_map/CG_R_curve/TDI_CG_R_curve.nii.gz
+> (2024-02-27 22:27:43.399984) mrconvert tdi_map/IFOF_R/TDI_IFOF_R.mif tdi_map/IFOF_R/TDI_IFOF_R.nii.gz
+> (2024-02-27 22:27:45.045568) mrconvert tdi_map/CG_R/TDI_CG_R.mif tdi_map/CG_R/TDI_CG_R.nii.gz
+> (2024-02-27 22:27:46.687230) mrconvert tdi_map/MdLF_R/TDI_MdLF_R.mif tdi_map/MdLF_R/TDI_MdLF_R.nii.gz
+> (2024-02-27 22:27:48.332490) mrconvert tdi_map/CG_R_An/TDI_CG_R_An.mif tdi_map/CG_R_An/TDI_CG_R_An.nii.gz
+> (2024-02-27 22:27:49.986923) mrconvert tdi_map/PYT_L/TDI_PYT_L.mif tdi_map/PYT_L/TDI_PYT_L.nii.gz
+> (2024-02-27 22:27:51.641887) mrconvert tdi_map/POPT_R/TDI_POPT_R.mif tdi_map/POPT_R/TDI_POPT_R.nii.gz
+> (2024-02-27 22:27:53.293121) mrconvert tdi_map/UF_R/TDI_UF_R.mif tdi_map/UF_R/TDI_UF_R.nii.gz
+> (2024-02-27 22:27:54.987541) mrconvert tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.nii.gz
+> (2024-02-27 22:27:56.633219) mrconvert tdi_map/AF_R/TDI_AF_R.mif tdi_map/AF_R/TDI_AF_R.nii.gz
+> (2024-02-27 22:27:58.289059) mrconvert tdi_map/FPT_R/TDI_FPT_R.mif tdi_map/FPT_R/TDI_FPT_R.nii.gz
+> (2024-02-27 22:27:59.934468) mrconvert tdi_map/FAT_L/TDI_FAT_L.mif tdi_map/FAT_L/TDI_FAT_L.nii.gz
+> (2024-02-27 22:28:01.582171) mrconvert tdi_map/CG_L_An/TDI_CG_L_An.mif tdi_map/CG_L_An/TDI_CG_L_An.nii.gz
+> (2024-02-27 22:28:03.235906) mrconvert tdi_map/SCP_L/TDI_SCP_L.mif tdi_map/SCP_L/TDI_SCP_L.nii.gz
+> (2024-02-27 22:28:04.881310) mrconvert tdi_map/SLF_L/TDI_SLF_L.mif tdi_map/SLF_L/TDI_SLF_L.nii.gz
+> (2024-02-27 22:28:06.524181) mrconvert tdi_map/CC_Te/TDI_CC_Te.mif tdi_map/CC_Te/TDI_CC_Te.nii.gz
+> (2024-02-27 22:28:08.177812) mrconvert tdi_map/UF_L/TDI_UF_L.mif tdi_map/UF_L/TDI_UF_L.nii.gz
+> (2024-02-27 22:28:09.829035) mrconvert tdi_map/AF_L/TDI_AF_L.mif tdi_map/AF_L/TDI_AF_L.nii.gz
+> (2024-02-27 22:28:11.474472) mrconvert tdi_map/FPT_L/TDI_FPT_L.mif tdi_map/FPT_L/TDI_FPT_L.nii.gz
+> (2024-02-27 22:28:13.112970) mrconvert tdi_map/CC_Oc/TDI_CC_Oc.mif tdi_map/CC_Oc/TDI_CC_Oc.nii.gz
+> (2024-02-27 22:28:14.783320) mrconvert tdi_map/FAT_R/TDI_FAT_R.mif tdi_map/FAT_R/TDI_FAT_R.nii.gz
+> (2024-02-27 22:28:16.504305) mrconvert tdi_map/SCP_R/TDI_SCP_R.mif tdi_map/SCP_R/TDI_SCP_R.nii.gz
+> (2024-02-27 22:28:18.218529) mrconvert tdi_map/SLF_R/TDI_SLF_R.mif tdi_map/SLF_R/TDI_SLF_R.nii.gz
+> (2024-02-27 22:28:19.895590) mrconvert tdi_map/CG_R_Po/TDI_CG_R_Po.mif tdi_map/CG_R_Po/TDI_CG_R_Po.nii.gz
+> (2024-02-27 22:28:21.577277) mrconvert tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.nii.gz
+> (2024-02-27 22:28:23.290894) mrconvert tdi_map/CC_Pa/TDI_CC_Pa.mif tdi_map/CC_Pa/TDI_CC_Pa.nii.gz
+> (2024-02-27 22:28:25.005874) mrconvert tdi_map/ILF_L/TDI_ILF_L.mif tdi_map/ILF_L/TDI_ILF_L.nii.gz
+> (2024-02-27 22:28:26.745566) mrconvert tdi_map/ICP_L/TDI_ICP_L.mif tdi_map/ICP_L/TDI_ICP_L.nii.gz
+> (2024-02-27 22:28:28.429118) mrconvert tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.nii.gz
+> (2024-02-27 22:28:30.095618) mrconvert tdi_map/OR_ML_L/TDI_OR_ML_L.mif tdi_map/OR_ML_L/TDI_OR_ML_L.nii.gz
+> (2024-02-27 22:28:31.761488) mrconvert tdi_map/FX_R/TDI_FX_R.mif tdi_map/FX_R/TDI_FX_R.nii.gz
+> (2024-02-27 22:28:33.424797) mrconvert tdi_map/IFOF_L/TDI_IFOF_L.mif tdi_map/IFOF_L/TDI_IFOF_L.nii.gz
+> (2024-02-27 22:28:35.084324) mrconvert tdi_map/CG_L/TDI_CG_L.mif tdi_map/CG_L/TDI_CG_L.nii.gz
+> (2024-02-27 22:28:36.745045) mrconvert tdi_map/MdLF_L/TDI_MdLF_L.mif tdi_map/MdLF_L/TDI_MdLF_L.nii.gz
+> (2024-02-27 22:28:38.482723) mrconvert tdi_map/CG_L_Po/TDI_CG_L_Po.mif tdi_map/CG_L_Po/TDI_CG_L_Po.nii.gz
+> (2024-02-27 22:28:40.142811) mrconvert tdi_map/POPT_L/TDI_POPT_L.mif tdi_map/POPT_L/TDI_POPT_L.nii.gz
+> (2024-02-27 22:28:41.797495) mrconvert tdi_map/PYT_R/TDI_PYT_R.mif tdi_map/PYT_R/TDI_PYT_R.nii.gz
+
+New Runtime [sample] -----
+> (2024-02-27 22:44:54.332330) mrdump tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/TDI_CC_Fr_1.txt
+> (2024-02-27 22:44:54.828942) mrdump tdi_map/ILF_R/TDI_ILF_R.mif tdi_map/ILF_R/TDI_ILF_R.txt
+> (2024-02-27 22:44:55.273016) mrdump tdi_map/ICP_R/TDI_ICP_R.mif tdi_map/ICP_R/TDI_ICP_R.txt
+> (2024-02-27 22:44:55.713284) mrdump tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/TDI_CC_Fr_2.txt
+> (2024-02-27 22:44:56.140918) mrdump tdi_map/CG_L_curve/TDI_CG_L_curve.mif tdi_map/CG_L_curve/TDI_CG_L_curve.txt
+> (2024-02-27 22:44:56.555268) mrdump tdi_map/OR_ML_R/TDI_OR_ML_R.mif tdi_map/OR_ML_R/TDI_OR_ML_R.txt
+> (2024-02-27 22:44:56.966358) mrdump tdi_map/FX_L/TDI_FX_L.mif tdi_map/FX_L/TDI_FX_L.txt
+> (2024-02-27 22:44:57.393086) mrdump tdi_map/CG_R_curve/TDI_CG_R_curve.mif tdi_map/CG_R_curve/TDI_CG_R_curve.txt
+> (2024-02-27 22:44:57.820191) mrdump tdi_map/IFOF_R/TDI_IFOF_R.mif tdi_map/IFOF_R/TDI_IFOF_R.txt
+> (2024-02-27 22:44:58.237981) mrdump tdi_map/CG_R/TDI_CG_R.mif tdi_map/CG_R/TDI_CG_R.txt
+> (2024-02-27 22:44:58.655822) mrdump tdi_map/MdLF_R/TDI_MdLF_R.mif tdi_map/MdLF_R/TDI_MdLF_R.txt
+> (2024-02-27 22:44:59.076346) mrdump tdi_map/CG_R_An/TDI_CG_R_An.mif tdi_map/CG_R_An/TDI_CG_R_An.txt
+> (2024-02-27 22:44:59.500215) mrdump tdi_map/PYT_L/TDI_PYT_L.mif tdi_map/PYT_L/TDI_PYT_L.txt
+> (2024-02-27 22:44:59.920150) mrdump tdi_map/POPT_R/TDI_POPT_R.mif tdi_map/POPT_R/TDI_POPT_R.txt
+> (2024-02-27 22:45:00.342923) mrdump tdi_map/UF_R/TDI_UF_R.mif tdi_map/UF_R/TDI_UF_R.txt
+> (2024-02-27 22:45:00.761921) mrdump tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.txt
+> (2024-02-27 22:45:01.186573) mrdump tdi_map/AF_R/TDI_AF_R.mif tdi_map/AF_R/TDI_AF_R.txt
+> (2024-02-27 22:45:01.608506) mrdump tdi_map/FPT_R/TDI_FPT_R.mif tdi_map/FPT_R/TDI_FPT_R.txt
+> (2024-02-27 22:45:02.029301) mrdump tdi_map/FAT_L/TDI_FAT_L.mif tdi_map/FAT_L/TDI_FAT_L.txt
+> (2024-02-27 22:45:02.451028) mrdump tdi_map/CG_L_An/TDI_CG_L_An.mif tdi_map/CG_L_An/TDI_CG_L_An.txt
+> (2024-02-27 22:45:02.877445) mrdump tdi_map/SCP_L/TDI_SCP_L.mif tdi_map/SCP_L/TDI_SCP_L.txt
+> (2024-02-27 22:45:03.305643) mrdump tdi_map/SLF_L/TDI_SLF_L.mif tdi_map/SLF_L/TDI_SLF_L.txt
+> (2024-02-27 22:45:03.849105) mrdump tdi_map/CC_Te/TDI_CC_Te.mif tdi_map/CC_Te/TDI_CC_Te.txt
+> (2024-02-27 22:45:04.262820) mrdump tdi_map/UF_L/TDI_UF_L.mif tdi_map/UF_L/TDI_UF_L.txt
+> (2024-02-27 22:45:04.681327) mrdump tdi_map/AF_L/TDI_AF_L.mif tdi_map/AF_L/TDI_AF_L.txt
+> (2024-02-27 22:45:05.102074) mrdump tdi_map/FPT_L/TDI_FPT_L.mif tdi_map/FPT_L/TDI_FPT_L.txt
+> (2024-02-27 22:45:05.524390) mrdump tdi_map/CC_Oc/TDI_CC_Oc.mif tdi_map/CC_Oc/TDI_CC_Oc.txt
+> (2024-02-27 22:45:05.943645) mrdump tdi_map/FAT_R/TDI_FAT_R.mif tdi_map/FAT_R/TDI_FAT_R.txt
+> (2024-02-27 22:45:06.361613) mrdump tdi_map/SCP_R/TDI_SCP_R.mif tdi_map/SCP_R/TDI_SCP_R.txt
+> (2024-02-27 22:45:06.784543) mrdump tdi_map/SLF_R/TDI_SLF_R.mif tdi_map/SLF_R/TDI_SLF_R.txt
+> (2024-02-27 22:45:07.210320) mrdump tdi_map/CG_R_Po/TDI_CG_R_Po.mif tdi_map/CG_R_Po/TDI_CG_R_Po.txt
+> (2024-02-27 22:45:07.630253) mrdump tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.txt
+> (2024-02-27 22:45:08.058014) mrdump tdi_map/CC_Pa/TDI_CC_Pa.mif tdi_map/CC_Pa/TDI_CC_Pa.txt
+> (2024-02-27 22:45:08.501505) mrdump tdi_map/ILF_L/TDI_ILF_L.mif tdi_map/ILF_L/TDI_ILF_L.txt
+> (2024-02-27 22:45:08.931021) mrdump tdi_map/ICP_L/TDI_ICP_L.mif tdi_map/ICP_L/TDI_ICP_L.txt
+> (2024-02-27 22:45:09.351082) mrdump tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.txt
+> (2024-02-27 22:45:09.774659) mrdump tdi_map/OR_ML_L/TDI_OR_ML_L.mif tdi_map/OR_ML_L/TDI_OR_ML_L.txt
+> (2024-02-27 22:45:10.205642) mrdump tdi_map/FX_R/TDI_FX_R.mif tdi_map/FX_R/TDI_FX_R.txt
+> (2024-02-27 22:45:10.623515) mrdump tdi_map/IFOF_L/TDI_IFOF_L.mif tdi_map/IFOF_L/TDI_IFOF_L.txt
+> (2024-02-27 22:45:11.039472) mrdump tdi_map/CG_L/TDI_CG_L.mif tdi_map/CG_L/TDI_CG_L.txt
+> (2024-02-27 22:45:11.455768) mrdump tdi_map/MdLF_L/TDI_MdLF_L.mif tdi_map/MdLF_L/TDI_MdLF_L.txt
+> (2024-02-27 22:45:11.874755) mrdump tdi_map/CG_L_Po/TDI_CG_L_Po.mif tdi_map/CG_L_Po/TDI_CG_L_Po.txt
+> (2024-02-27 22:45:12.293726) mrdump tdi_map/POPT_L/TDI_POPT_L.mif tdi_map/POPT_L/TDI_POPT_L.txt
+> (2024-02-27 22:45:12.716299) mrdump tdi_map/PYT_R/TDI_PYT_R.mif tdi_map/PYT_R/TDI_PYT_R.txt
+
+New Runtime [sample] -----
+> (2024-02-27 22:47:24.271665) mrdump tdi_map/CC_Fr_1/thr_TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/thr_TDI_CC_Fr_1.txt
+> (2024-02-27 22:47:24.660479) mrdump tdi_map/ILF_R/thr_TDI_ILF_R.mif tdi_map/ILF_R/thr_TDI_ILF_R.txt
+> (2024-02-27 22:47:25.045777) mrdump tdi_map/ICP_R/thr_TDI_ICP_R.mif tdi_map/ICP_R/thr_TDI_ICP_R.txt
+> (2024-02-27 22:47:25.497205) mrdump tdi_map/CC_Fr_2/thr_TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/thr_TDI_CC_Fr_2.txt
+> (2024-02-27 22:47:25.887965) mrdump tdi_map/CG_L_curve/thr_TDI_CG_L_curve.mif tdi_map/CG_L_curve/thr_TDI_CG_L_curve.txt
+> (2024-02-27 22:47:26.262877) mrdump tdi_map/OR_ML_R/thr_TDI_OR_ML_R.mif tdi_map/OR_ML_R/thr_TDI_OR_ML_R.txt
+> (2024-02-27 22:47:26.646341) mrdump tdi_map/FX_L/thr_TDI_FX_L.mif tdi_map/FX_L/thr_TDI_FX_L.txt
+> (2024-02-27 22:47:27.028344) mrdump tdi_map/CG_R_curve/thr_TDI_CG_R_curve.mif tdi_map/CG_R_curve/thr_TDI_CG_R_curve.txt
+> (2024-02-27 22:47:27.419547) mrdump tdi_map/IFOF_R/thr_TDI_IFOF_R.mif tdi_map/IFOF_R/thr_TDI_IFOF_R.txt
+> (2024-02-27 22:47:27.795144) mrdump tdi_map/CG_R/thr_TDI_CG_R.mif tdi_map/CG_R/thr_TDI_CG_R.txt
+> (2024-02-27 22:47:28.188635) mrdump tdi_map/MdLF_R/thr_TDI_MdLF_R.mif tdi_map/MdLF_R/thr_TDI_MdLF_R.txt
+> (2024-02-27 22:47:28.570230) mrdump tdi_map/CG_R_An/thr_TDI_CG_R_An.mif tdi_map/CG_R_An/thr_TDI_CG_R_An.txt
+> (2024-02-27 22:47:28.941145) mrdump tdi_map/PYT_L/thr_TDI_PYT_L.mif tdi_map/PYT_L/thr_TDI_PYT_L.txt
+> (2024-02-27 22:47:29.327308) mrdump tdi_map/POPT_R/thr_TDI_POPT_R.mif tdi_map/POPT_R/thr_TDI_POPT_R.txt
+> (2024-02-27 22:47:29.748596) mrdump tdi_map/UF_R/thr_TDI_UF_R.mif tdi_map/UF_R/thr_TDI_UF_R.txt
+> (2024-02-27 22:47:30.139200) mrdump tdi_map/PYT_L_Brainstem/thr_TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/thr_TDI_PYT_L_Brainstem.txt
+> (2024-02-27 22:47:30.520303) mrdump tdi_map/AF_R/thr_TDI_AF_R.mif tdi_map/AF_R/thr_TDI_AF_R.txt
+> (2024-02-27 22:47:30.902385) mrdump tdi_map/FPT_R/thr_TDI_FPT_R.mif tdi_map/FPT_R/thr_TDI_FPT_R.txt
+> (2024-02-27 22:47:31.274069) mrdump tdi_map/FAT_L/thr_TDI_FAT_L.mif tdi_map/FAT_L/thr_TDI_FAT_L.txt
+> (2024-02-27 22:47:31.653718) mrdump tdi_map/CG_L_An/thr_TDI_CG_L_An.mif tdi_map/CG_L_An/thr_TDI_CG_L_An.txt
+> (2024-02-27 22:47:32.028305) mrdump tdi_map/SCP_L/thr_TDI_SCP_L.mif tdi_map/SCP_L/thr_TDI_SCP_L.txt
+> (2024-02-27 22:47:32.403168) mrdump tdi_map/SLF_L/thr_TDI_SLF_L.mif tdi_map/SLF_L/thr_TDI_SLF_L.txt
+> (2024-02-27 22:47:32.778175) mrdump tdi_map/CC_Te/thr_TDI_CC_Te.mif tdi_map/CC_Te/thr_TDI_CC_Te.txt
+> (2024-02-27 22:47:33.159376) mrdump tdi_map/UF_L/thr_TDI_UF_L.mif tdi_map/UF_L/thr_TDI_UF_L.txt
+> (2024-02-27 22:47:33.545147) mrdump tdi_map/AF_L/thr_TDI_AF_L.mif tdi_map/AF_L/thr_TDI_AF_L.txt
+> (2024-02-27 22:47:33.917141) mrdump tdi_map/FPT_L/thr_TDI_FPT_L.mif tdi_map/FPT_L/thr_TDI_FPT_L.txt
+> (2024-02-27 22:47:34.289784) mrdump tdi_map/CC_Oc/thr_TDI_CC_Oc.mif tdi_map/CC_Oc/thr_TDI_CC_Oc.txt
+> (2024-02-27 22:47:34.660916) mrdump tdi_map/FAT_R/thr_TDI_FAT_R.mif tdi_map/FAT_R/thr_TDI_FAT_R.txt
+> (2024-02-27 22:47:35.052536) mrdump tdi_map/SCP_R/thr_TDI_SCP_R.mif tdi_map/SCP_R/thr_TDI_SCP_R.txt
+> (2024-02-27 22:47:35.464425) mrdump tdi_map/SLF_R/thr_TDI_SLF_R.mif tdi_map/SLF_R/thr_TDI_SLF_R.txt
+> (2024-02-27 22:47:35.838400) mrdump tdi_map/CG_R_Po/thr_TDI_CG_R_Po.mif tdi_map/CG_R_Po/thr_TDI_CG_R_Po.txt
+> (2024-02-27 22:47:36.208845) mrdump tdi_map/PYT_R_Brainstem/thr_TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/thr_TDI_PYT_R_Brainstem.txt
+> (2024-02-27 22:47:36.580556) mrdump tdi_map/CC_Pa/thr_TDI_CC_Pa.mif tdi_map/CC_Pa/thr_TDI_CC_Pa.txt
+> (2024-02-27 22:47:36.960698) mrdump tdi_map/ILF_L/thr_TDI_ILF_L.mif tdi_map/ILF_L/thr_TDI_ILF_L.txt
+> (2024-02-27 22:47:37.351308) mrdump tdi_map/ICP_L/thr_TDI_ICP_L.mif tdi_map/ICP_L/thr_TDI_ICP_L.txt
+> (2024-02-27 22:47:37.745040) mrdump tdi_map/CC_Pr_Po/thr_TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/thr_TDI_CC_Pr_Po.txt
+> (2024-02-27 22:47:38.126714) mrdump tdi_map/OR_ML_L/thr_TDI_OR_ML_L.mif tdi_map/OR_ML_L/thr_TDI_OR_ML_L.txt
+> (2024-02-27 22:47:38.496825) mrdump tdi_map/FX_R/thr_TDI_FX_R.mif tdi_map/FX_R/thr_TDI_FX_R.txt
+> (2024-02-27 22:47:38.871943) mrdump tdi_map/IFOF_L/thr_TDI_IFOF_L.mif tdi_map/IFOF_L/thr_TDI_IFOF_L.txt
+> (2024-02-27 22:47:39.247312) mrdump tdi_map/CG_L/thr_TDI_CG_L.mif tdi_map/CG_L/thr_TDI_CG_L.txt
+> (2024-02-27 22:47:39.620399) mrdump tdi_map/MdLF_L/thr_TDI_MdLF_L.mif tdi_map/MdLF_L/thr_TDI_MdLF_L.txt
+> (2024-02-27 22:47:40.000742) mrdump tdi_map/CG_L_Po/thr_TDI_CG_L_Po.mif tdi_map/CG_L_Po/thr_TDI_CG_L_Po.txt
+> (2024-02-27 22:47:40.370579) mrdump tdi_map/POPT_L/thr_TDI_POPT_L.mif tdi_map/POPT_L/thr_TDI_POPT_L.txt
+> (2024-02-27 22:47:40.741855) mrdump tdi_map/PYT_R/thr_TDI_PYT_R.mif tdi_map/PYT_R/thr_TDI_PYT_R.txt
+
+New Runtime [sample] -----
+> (2024-03-02 10:52:47.937011) mrdump tdi_map/CC_Fr_1/thr_TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/thr_TDI_CC_Fr_1.txt
+> (2024-03-02 10:52:48.340197) mrdump tdi_map/ILF_R/thr_TDI_ILF_R.mif tdi_map/ILF_R/thr_TDI_ILF_R.txt
+> (2024-03-02 10:52:48.725277) mrdump tdi_map/ICP_R/thr_TDI_ICP_R.mif tdi_map/ICP_R/thr_TDI_ICP_R.txt
+> (2024-03-02 10:52:49.100508) mrdump tdi_map/CC_Fr_2/thr_TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/thr_TDI_CC_Fr_2.txt
+> (2024-03-02 10:52:49.489770) mrdump tdi_map/CG_L_curve/thr_TDI_CG_L_curve.mif tdi_map/CG_L_curve/thr_TDI_CG_L_curve.txt
+> (2024-03-02 10:52:49.862378) mrdump tdi_map/OR_ML_R/thr_TDI_OR_ML_R.mif tdi_map/OR_ML_R/thr_TDI_OR_ML_R.txt
+> (2024-03-02 10:52:50.248065) mrdump tdi_map/FX_L/thr_TDI_FX_L.mif tdi_map/FX_L/thr_TDI_FX_L.txt
+> (2024-03-02 10:52:50.620824) mrdump tdi_map/CG_R_curve/thr_TDI_CG_R_curve.mif tdi_map/CG_R_curve/thr_TDI_CG_R_curve.txt
+> (2024-03-02 10:52:50.998571) mrdump tdi_map/IFOF_R/thr_TDI_IFOF_R.mif tdi_map/IFOF_R/thr_TDI_IFOF_R.txt
+> (2024-03-02 10:52:51.376275) mrdump tdi_map/CG_R/thr_TDI_CG_R.mif tdi_map/CG_R/thr_TDI_CG_R.txt
+> (2024-03-02 10:52:51.748684) mrdump tdi_map/MdLF_R/thr_TDI_MdLF_R.mif tdi_map/MdLF_R/thr_TDI_MdLF_R.txt
+> (2024-03-02 10:52:52.130081) mrdump tdi_map/CG_R_An/thr_TDI_CG_R_An.mif tdi_map/CG_R_An/thr_TDI_CG_R_An.txt
+> (2024-03-02 10:52:52.507857) mrdump tdi_map/PYT_L/thr_TDI_PYT_L.mif tdi_map/PYT_L/thr_TDI_PYT_L.txt
+> (2024-03-02 10:52:52.879146) mrdump tdi_map/POPT_R/thr_TDI_POPT_R.mif tdi_map/POPT_R/thr_TDI_POPT_R.txt
+> (2024-03-02 10:52:53.256000) mrdump tdi_map/UF_R/thr_TDI_UF_R.mif tdi_map/UF_R/thr_TDI_UF_R.txt
+> (2024-03-02 10:52:53.629963) mrdump tdi_map/PYT_L_Brainstem/thr_TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/thr_TDI_PYT_L_Brainstem.txt
+> (2024-03-02 10:52:54.003037) mrdump tdi_map/AF_R/thr_TDI_AF_R.mif tdi_map/AF_R/thr_TDI_AF_R.txt
+> (2024-03-02 10:52:54.398074) mrdump tdi_map/FPT_R/thr_TDI_FPT_R.mif tdi_map/FPT_R/thr_TDI_FPT_R.txt
+> (2024-03-02 10:52:54.776807) mrdump tdi_map/FAT_L/thr_TDI_FAT_L.mif tdi_map/FAT_L/thr_TDI_FAT_L.txt
+> (2024-03-02 10:52:55.154768) mrdump tdi_map/CG_L_An/thr_TDI_CG_L_An.mif tdi_map/CG_L_An/thr_TDI_CG_L_An.txt
+> (2024-03-02 10:52:55.529229) mrdump tdi_map/SCP_L/thr_TDI_SCP_L.mif tdi_map/SCP_L/thr_TDI_SCP_L.txt
+> (2024-03-02 10:52:55.900750) mrdump tdi_map/SLF_L/thr_TDI_SLF_L.mif tdi_map/SLF_L/thr_TDI_SLF_L.txt
+> (2024-03-02 10:52:56.273338) mrdump tdi_map/CC_Te/thr_TDI_CC_Te.mif tdi_map/CC_Te/thr_TDI_CC_Te.txt
+> (2024-03-02 10:52:56.655918) mrdump tdi_map/UF_L/thr_TDI_UF_L.mif tdi_map/UF_L/thr_TDI_UF_L.txt
+> (2024-03-02 10:52:57.028439) mrdump tdi_map/AF_L/thr_TDI_AF_L.mif tdi_map/AF_L/thr_TDI_AF_L.txt
+> (2024-03-02 10:52:57.422230) mrdump tdi_map/FPT_L/thr_TDI_FPT_L.mif tdi_map/FPT_L/thr_TDI_FPT_L.txt
+> (2024-03-02 10:52:57.795564) mrdump tdi_map/CC_Oc/thr_TDI_CC_Oc.mif tdi_map/CC_Oc/thr_TDI_CC_Oc.txt
+> (2024-03-02 10:52:58.169026) mrdump tdi_map/FAT_R/thr_TDI_FAT_R.mif tdi_map/FAT_R/thr_TDI_FAT_R.txt
+> (2024-03-02 10:52:58.543291) mrdump tdi_map/SCP_R/thr_TDI_SCP_R.mif tdi_map/SCP_R/thr_TDI_SCP_R.txt
+> (2024-03-02 10:52:58.925681) mrdump tdi_map/SLF_R/thr_TDI_SLF_R.mif tdi_map/SLF_R/thr_TDI_SLF_R.txt
+> (2024-03-02 10:52:59.299443) mrdump tdi_map/CG_R_Po/thr_TDI_CG_R_Po.mif tdi_map/CG_R_Po/thr_TDI_CG_R_Po.txt
+> (2024-03-02 10:52:59.673876) mrdump tdi_map/PYT_R_Brainstem/thr_TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/thr_TDI_PYT_R_Brainstem.txt
+> (2024-03-02 10:53:00.049403) mrdump tdi_map/CC_Pa/thr_TDI_CC_Pa.mif tdi_map/CC_Pa/thr_TDI_CC_Pa.txt
+> (2024-03-02 10:53:00.429217) mrdump tdi_map/ILF_L/thr_TDI_ILF_L.mif tdi_map/ILF_L/thr_TDI_ILF_L.txt
+> (2024-03-02 10:53:00.803288) mrdump tdi_map/ICP_L/thr_TDI_ICP_L.mif tdi_map/ICP_L/thr_TDI_ICP_L.txt
+> (2024-03-02 10:53:01.176966) mrdump tdi_map/CC_Pr_Po/thr_TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/thr_TDI_CC_Pr_Po.txt
+> (2024-03-02 10:53:01.553648) mrdump tdi_map/OR_ML_L/thr_TDI_OR_ML_L.mif tdi_map/OR_ML_L/thr_TDI_OR_ML_L.txt
+> (2024-03-02 10:53:01.936820) mrdump tdi_map/FX_R/thr_TDI_FX_R.mif tdi_map/FX_R/thr_TDI_FX_R.txt
+> (2024-03-02 10:53:02.310608) mrdump tdi_map/IFOF_L/thr_TDI_IFOF_L.mif tdi_map/IFOF_L/thr_TDI_IFOF_L.txt
+> (2024-03-02 10:53:02.681508) mrdump tdi_map/CG_L/thr_TDI_CG_L.mif tdi_map/CG_L/thr_TDI_CG_L.txt
+> (2024-03-02 10:53:03.062910) mrdump tdi_map/MdLF_L/thr_TDI_MdLF_L.mif tdi_map/MdLF_L/thr_TDI_MdLF_L.txt
+> (2024-03-02 10:53:03.438549) mrdump tdi_map/CG_L_Po/thr_TDI_CG_L_Po.mif tdi_map/CG_L_Po/thr_TDI_CG_L_Po.txt
+> (2024-03-02 10:53:03.815751) mrdump tdi_map/POPT_L/thr_TDI_POPT_L.mif tdi_map/POPT_L/thr_TDI_POPT_L.txt
+> (2024-03-02 10:53:04.191589) mrdump tdi_map/PYT_R/thr_TDI_PYT_R.mif tdi_map/PYT_R/thr_TDI_PYT_R.txt
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+
+New Runtime [sample] -----
+> (2024-03-03 10:45:54.020171) mrdump tdi_map/CC_Fr_1/TDI_CC_Fr_1.mif tdi_map/CC_Fr_1/TDI_CC_Fr_1.txt
+> (2024-03-03 10:45:54.603589) mrdump tdi_map/ILF_R/TDI_ILF_R.mif tdi_map/ILF_R/TDI_ILF_R.txt
+> (2024-03-03 10:45:55.141501) mrdump tdi_map/CC_Fr_2/TDI_CC_Fr_2.mif tdi_map/CC_Fr_2/TDI_CC_Fr_2.txt
+> (2024-03-03 10:45:55.655899) mrdump tdi_map/CG_L_curve/TDI_CG_L_curve.mif tdi_map/CG_L_curve/TDI_CG_L_curve.txt
+> (2024-03-03 10:45:56.153669) mrdump tdi_map/OR_ML_R/TDI_OR_ML_R.mif tdi_map/OR_ML_R/TDI_OR_ML_R.txt
+> (2024-03-03 10:45:56.637057) mrdump tdi_map/FX_L/TDI_FX_L.mif tdi_map/FX_L/TDI_FX_L.txt
+> (2024-03-03 10:45:57.118870) mrdump tdi_map/CG_R_curve/TDI_CG_R_curve.mif tdi_map/CG_R_curve/TDI_CG_R_curve.txt
+> (2024-03-03 10:45:57.602638) mrdump tdi_map/IFOF_R/TDI_IFOF_R.mif tdi_map/IFOF_R/TDI_IFOF_R.txt
+> (2024-03-03 10:45:58.097106) mrdump tdi_map/CG_R/TDI_CG_R.mif tdi_map/CG_R/TDI_CG_R.txt
+> (2024-03-03 10:45:58.590892) mrdump tdi_map/MdLF_R/TDI_MdLF_R.mif tdi_map/MdLF_R/TDI_MdLF_R.txt
+> (2024-03-03 10:45:59.062248) mrdump tdi_map/CG_R_An/TDI_CG_R_An.mif tdi_map/CG_R_An/TDI_CG_R_An.txt
+> (2024-03-03 10:45:59.538368) mrdump tdi_map/PYT_L/TDI_PYT_L.mif tdi_map/PYT_L/TDI_PYT_L.txt
+> (2024-03-03 10:46:00.012059) mrdump tdi_map/POPT_R/TDI_POPT_R.mif tdi_map/POPT_R/TDI_POPT_R.txt
+> (2024-03-03 10:46:00.489658) mrdump tdi_map/UF_R/TDI_UF_R.mif tdi_map/UF_R/TDI_UF_R.txt
+> (2024-03-03 10:46:00.962915) mrdump tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.mif tdi_map/PYT_L_Brainstem/TDI_PYT_L_Brainstem.txt
+> (2024-03-03 10:46:01.451039) mrdump tdi_map/AF_R/TDI_AF_R.mif tdi_map/AF_R/TDI_AF_R.txt
+> (2024-03-03 10:46:01.937913) mrdump tdi_map/FPT_R/TDI_FPT_R.mif tdi_map/FPT_R/TDI_FPT_R.txt
+> (2024-03-03 10:46:02.409159) mrdump tdi_map/FAT_L/TDI_FAT_L.mif tdi_map/FAT_L/TDI_FAT_L.txt
+> (2024-03-03 10:46:02.881506) mrdump tdi_map/CG_L_An/TDI_CG_L_An.mif tdi_map/CG_L_An/TDI_CG_L_An.txt
+> (2024-03-03 10:46:03.367402) mrdump tdi_map/SCP_L/TDI_SCP_L.mif tdi_map/SCP_L/TDI_SCP_L.txt
+> (2024-03-03 10:46:03.842259) mrdump tdi_map/SLF_L/TDI_SLF_L.mif tdi_map/SLF_L/TDI_SLF_L.txt
+> (2024-03-03 10:46:04.337718) mrdump tdi_map/CC_Te/TDI_CC_Te.mif tdi_map/CC_Te/TDI_CC_Te.txt
+> (2024-03-03 10:46:04.826139) mrdump tdi_map/UF_L/TDI_UF_L.mif tdi_map/UF_L/TDI_UF_L.txt
+> (2024-03-03 10:46:05.305467) mrdump tdi_map/AF_L/TDI_AF_L.mif tdi_map/AF_L/TDI_AF_L.txt
+> (2024-03-03 10:46:05.787886) mrdump tdi_map/FPT_L/TDI_FPT_L.mif tdi_map/FPT_L/TDI_FPT_L.txt
+> (2024-03-03 10:46:06.260771) mrdump tdi_map/CC_Oc/TDI_CC_Oc.mif tdi_map/CC_Oc/TDI_CC_Oc.txt
+> (2024-03-03 10:46:06.755077) mrdump tdi_map/FAT_R/TDI_FAT_R.mif tdi_map/FAT_R/TDI_FAT_R.txt
+> (2024-03-03 10:46:07.242344) mrdump tdi_map/SCP_R/TDI_SCP_R.mif tdi_map/SCP_R/TDI_SCP_R.txt
+> (2024-03-03 10:46:07.716006) mrdump tdi_map/SLF_R/TDI_SLF_R.mif tdi_map/SLF_R/TDI_SLF_R.txt
+> (2024-03-03 10:46:08.201193) mrdump tdi_map/CG_R_Po/TDI_CG_R_Po.mif tdi_map/CG_R_Po/TDI_CG_R_Po.txt
+> (2024-03-03 10:46:08.694206) mrdump tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.mif tdi_map/PYT_R_Brainstem/TDI_PYT_R_Brainstem.txt
+> (2024-03-03 10:46:09.161340) mrdump tdi_map/CC_Pa/TDI_CC_Pa.mif tdi_map/CC_Pa/TDI_CC_Pa.txt
+> (2024-03-03 10:46:09.670543) mrdump tdi_map/ILF_L/TDI_ILF_L.mif tdi_map/ILF_L/TDI_ILF_L.txt
+> (2024-03-03 10:46:10.149095) mrdump tdi_map/ICP_L/TDI_ICP_L.mif tdi_map/ICP_L/TDI_ICP_L.txt
+> (2024-03-03 10:46:10.633126) mrdump tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.mif tdi_map/CC_Pr_Po/TDI_CC_Pr_Po.txt
+> (2024-03-03 10:46:11.116743) mrdump tdi_map/OR_ML_L/TDI_OR_ML_L.mif tdi_map/OR_ML_L/TDI_OR_ML_L.txt
+> (2024-03-03 10:46:11.601322) mrdump tdi_map/FX_R/TDI_FX_R.mif tdi_map/FX_R/TDI_FX_R.txt
+> (2024-03-03 10:46:12.088879) mrdump tdi_map/IFOF_L/TDI_IFOF_L.mif tdi_map/IFOF_L/TDI_IFOF_L.txt
+> (2024-03-03 10:46:12.574070) mrdump tdi_map/CG_L/TDI_CG_L.mif tdi_map/CG_L/TDI_CG_L.txt
+> (2024-03-03 10:46:13.048077) mrdump tdi_map/MdLF_L/TDI_MdLF_L.mif tdi_map/MdLF_L/TDI_MdLF_L.txt
+> (2024-03-03 10:46:13.538479) mrdump tdi_map/CG_L_Po/TDI_CG_L_Po.mif tdi_map/CG_L_Po/TDI_CG_L_Po.txt
+> (2024-03-03 10:46:14.027039) mrdump tdi_map/POPT_L/TDI_POPT_L.mif tdi_map/POPT_L/TDI_POPT_L.txt
+> (2024-03-03 10:46:14.515976) mrdump tdi_map/PYT_R/TDI_PYT_R.mif tdi_map/PYT_R/TDI_PYT_R.txt

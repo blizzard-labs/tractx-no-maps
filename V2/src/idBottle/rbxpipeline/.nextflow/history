@@ -1,0 +1,1 @@
+2024-04-05 13:36:29	2m 23s	astonishing_lavoisier	ERR	b5ae64ded118e1d368772267734265c3	edf44df4-ab17-4986-ab41-36f6cea9d2c4	nextflow run main.nf --input=/Users/krishna/TractX/src/data/bundleseg/subjects --atlas_directory=/Users/krishna/TractX/src/data/bundleseg/rbxatlas

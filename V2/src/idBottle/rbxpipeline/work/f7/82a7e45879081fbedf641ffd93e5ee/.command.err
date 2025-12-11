@@ -1,0 +1,1840 @@
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+ERROR:StatefulTractogram:Voxel space values lower than 0.0.
+WARNING:root:Saving tractogram with invalid streamlines.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_apply_transform.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+
+sys:1: DeprecationWarning: 
+=========================================================================================================
+
+!!! WARNING !!! THIS SCRIPT IS DEPRECATED !!!
+
+=========================================================================================================
+
+WARNING:root:Streamlines entirely out of the volume.
+WARNING:root:Cut 0 invalid streamlines.
+WARNING:root:data_per_point will be discarded.
+WARNING:root:Removed 20 overlapping points from tractogram.
+WARNING:root:Removed 1 invalid streamlines.
+WARNING:root:No valid streamline, not saving due to --no_empty.
+sys:1: DeprecationWarning: 
+=========================================================================================================
+                         
+This script has been renamed scil_tractogram_remove_invalid.py. Please change
+your existing pipelines accordingly.
+
+
+                         
+AS OF VERSION 1.9, CALLING THIS SCRIPT WILL RAISE <class 'scilpy.io.deprecator.ScilpyExpiredDeprecation'>
+                         
+=========================================================================================================
+

@@ -1,0 +1,218 @@
+
+> (2024-04-05 13:36:28.589578) CONTEXT: /Users/krishna/TractX/src/data/temp/
+> (2024-04-05 13:36:28.589645) CONTEXT: /Users/krishna/TractX/src/idBottle/rbxpipeline
+> (2024-04-05 13:36:28.589676) nextflow run main.nf --input=/Users/krishna/TractX/src/data/bundleseg/subjects --atlas_directory=/Users/krishna/TractX/src/data/bundleseg/rbxatlasN E X T F L O W  ~  version 21.10.6
+Launching `main.nf` [astonishing_lavoisier] - revision: b5ae64ded1
+SCIL RecobundlesX pipeline
+==========================
+
+Start time: 2024-04-05T13:36:29.954522-07:00
+
+[Git Info]
+null - null [null]
+
+Options
+=======
+
+[Atlas]
+Atlas Directory: /Users/krishna/TractX/src/data/bundleseg/rbxatlas
+
+[Recobundles options]
+Minimal Vote Percentage: 0.1
+Random Seed: 0
+Outlier Removal Alpha: 0.5
+Run Average Bundles: false
+
+
+Input: /Users/krishna/TractX/src/data/bundleseg/subjects
+executor >  local (1)[K
+[49/c85a0e] process > Register_Anat (S1)  [  0%] 0 of 1[K
+[-        ] process > Transform_Centroids -[K
+[-        ] process > Recognize_Bundles   -[K
+[-        ] process > Clean_Bundles       -[K
+[-        ] process > Average_Bundles     -[K
+[7A
+executor >  local (1)[K
+[49/c85a0e] process > Register_Anat (S1)  [  0%] 0 of 1[K
+[-        ] process > Transform_Centroids -[K
+[-        ] process > Recognize_Bundles   -[K
+[-        ] process > Clean_Bundles       -[K
+[-        ] process > Average_Bundles     -[K
+[7A
+executor >  local (3)[K
+[49/c85a0e] process > Register_Anat (S1)       [100%] 1 of 1 ✔[K
+[f7/82a7e4] process > Transform_Centroids (S1) [  0%] 0 of 1[K
+[39/183a58] process > Recognize_Bundles (S1)   [  0%] 0 of 1[K
+[-        ] process > Clean_Bundles            -[K
+[-        ] process > Average_Bundles          -[K
+[7A
+executor >  local (3)[K
+[49/c85a0e] process > Register_Anat (S1)       [100%] 1 of 1 ✔[K
+[f7/82a7e4] process > Transform_Centroids (S1) [  0%] 0 of 1[K
+[39/183a58] process > Recognize_Bundles (S1)   [  0%] 0 of 1[K
+[-        ] process > Clean_Bundles            -[K
+[-        ] process > Average_Bundles          -[K
+[31mError executing process > 'Recognize_Bundles (S1)'[K
+[K
+Caused by:[K
+  Missing output file(s) `*.trk` expected by process `Recognize_Bundles (S1)` (note: input files are not included in the default matching set)[K
+[K
+Command executed:[K
+[K
+  mkdir tmp/[K
+  scil_tractogram_segment_bundles.py tracking.trk config_fss_1.json atlas/ S1__output0GenericAffine.mat --inverse --out_dir tmp/         -v DEBUG --minimal_vote_ratio 0.1         --seed 0 --processes 4[K
+  mv tmp/* ./[K
+[K
+Command exit status:[K
+  0[K
+[K
+Command output:[K
+  (empty)[K
+[K
+Command error:[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Fr_1.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Fr_2.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Oc.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Pa.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Pr_Po.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Te.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_An.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_Po.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_curve.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_An.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_Po.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_curve.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FAT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FAT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_L_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_R_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FX_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FX_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ICP_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ICP_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR IFOF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR IFOF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ILF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ILF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MCP.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MdLF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MdLF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR OR_ML_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR OR_ML_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_L_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_R_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_L_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_R_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SCP_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SCP_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SLF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SLF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR UF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR UF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] INFO Saving of 51 files in tmp/ took 0.01 sec.[K
+[K
+Work dir:[K
+  /Users/krishna/TractX/src/idBottle/rbxpipeline/work/39/183a587586cf29b52c2caad8b176bd[K
+[K
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line[K
+[K
+[39m[K
+Pipeline completed at: 2024-04-05T13:38:51.308040-07:00
+Execution status: failed
+Execution duration: 2m 21s
+WARN: Killing pending tasks (1)
+[82A
+executor >  local (3)[K
+[49/c85a0e] process > Register_Anat (S1)       [100%] 1 of 1 ✔[K
+[-        ] process > Transform_Centroids (S1) -[K
+[39/183a58] process > Recognize_Bundles (S1)   [100%] 1 of 1, failed: 1 ✘[K
+[-        ] process > Clean_Bundles            -[K
+[-        ] process > Average_Bundles          -[K
+[31mError executing process > 'Recognize_Bundles (S1)'[K
+[K
+Caused by:[K
+  Missing output file(s) `*.trk` expected by process `Recognize_Bundles (S1)` (note: input files are not included in the default matching set)[K
+[K
+Command executed:[K
+[K
+  mkdir tmp/[K
+  scil_tractogram_segment_bundles.py tracking.trk config_fss_1.json atlas/ S1__output0GenericAffine.mat --inverse --out_dir tmp/         -v DEBUG --minimal_vote_ratio 0.1         --seed 0 --processes 4[K
+  mv tmp/* ./[K
+[K
+Command exit status:[K
+  0[K
+[K
+Command output:[K
+  (empty)[K
+[K
+Command error:[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR AF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Fr_1.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Fr_2.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Oc.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Pa.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Pr_Po.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CC_Te.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_An.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_Po.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_L_curve.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_An.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_Po.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR CG_R_curve.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FAT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FAT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_L_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_R_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FPT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FX_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR FX_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ICP_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ICP_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR IFOF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR IFOF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ILF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR ILF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MCP.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MdLF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR MdLF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR OR_ML_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR OR_ML_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_L_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_R_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR POPT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_L_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_R_Brainstem.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR PYT_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SCP_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SCP_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SLF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR SLF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR UF_L.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] ERROR UF_R.trk final recognition got 0 streamlines[K
+  2024-04-05 13:38:41 blueshard.lan root[8399] INFO Saving of 51 files in tmp/ took 0.01 sec.[K
+[K
+Work dir:[K
+  /Users/krishna/TractX/src/idBottle/rbxpipeline/work/39/183a587586cf29b52c2caad8b176bd[K
+[K
+Tip: when you have fixed the problem you can continue the execution adding the option `-resume` to the run command line[K
+[K
+[39m[K
+
+
+> (2024-04-05 13:38:51.962889) FINISHED RUNTIME

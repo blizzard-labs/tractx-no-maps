@@ -1,0 +1,17 @@
+Brain Tumor Connectomics Data
+
+Pre-operative data of 11 glioma patients, 14 meningioma patients and 11 control subjects that were used in paper "Modeling brain dynamics in brain tumor patients using The Virtual Brain". 
+
+Contact information:
+Name: Hannelore Aerts
+Email: hannelore.aerts@ugent.be
+
+Compared to the initial database, 6 patients were excluded: 2 because of glioma grade 4, 3 because of subtentorial tumor, 1 because of absence of MRI data (subdural grid).
+
+Of all subjects the following data were acquired:
+- T1w MPRAGE anatomical scan (anat)
+- resting-state fMRI (func)
+- multi-shell HARDI diffusion-weighted MRI (dwi, acq=AP)
+- short DWI with reverse phase encoding directions (dwi, acq=PA)
+- cognitive assessment using the Cambridge Neuropsychological Test Automated Battery (CANTAB): MOT, RVP, RTI, SSP & SOC
+- questionnaires assessing demographic information, lifestyle habits & emotional functioning

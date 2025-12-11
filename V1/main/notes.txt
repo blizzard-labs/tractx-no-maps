@@ -1,0 +1,242 @@
+
+CURRENT INSTANCE STAGE: SIFT COMPLETE
+
+==========================================
+ANAT file format: T1w_title.(json/nii.gz)
+DWI file format: dwi_title_(ap/pa).(bval/bvec/json/nii.gz)
+FUNC file format: bold_title.(json/nii.gz)
+
+dataset/template contains all standard template information and FDC as well as FC 
+
+==========================================
+Single-fixel Voxel: Voxels with a single peak
+Multi-fixel Voxel: Voxels with mutliple peaks
+
+==========================================
+--------Files in main_files--------
+1. FDC folder
+    * Contains Fiber Density and Cross-section data
+2. wmfod_norm.mif
+    * Normalized FOD of white matter
+3. gm_norm.mif
+    * Normalized Grey Matter
+4. csf_norm.mif
+    * Normalized CSF
+5. [title]_den_preproc_unbiased.mif
+    * Pre-processed dMRI image
+
+=================================================
+--------Permanent Folders in instance_files--------
+1. avgresponse
+    * contains response functions
+2. conversions
+    * contains conversions
+3. bundleseg
+    * contains bundle tracks
+4. tdi_map
+    * Contains fixel tdi for tractogram
+5. fixelattributes.txt
+
+------------Flowchart-------------
+1. dMRI preprocessing
+    * pre_proc.py
+2. Generate FODs
+    * fod_gen.py
+3. Create a standard template mask
+    * sdTempMask.py
+5. Calculate Density information
+    * fba.py
+5. Whole brain tractography + SIFT
+    * stream_gen.py
+6. Tractseg
+    * bundleseg.py
+7. Identify bottleneck regions + In/Out Bundles
+    * id_bottle.py
+8. For each bundle--
+    1. 
+
+=====================================
+tractoflow_folder = bundleframe
+subject_list = sample
+models_path = path
+models_T1= mni_masked.nii.gz
+model_config = config/config_fss_1.json
+
+subj = sample
+subj_folder = bundleframe/sample
+subj_trk = bundleframe/sample/Tracking/sample__local_tracking.trk
+subj_T1 = bundleframe/sample/Register_T1/sample__t1_warped.nii.gz
+
+model_to_subj = rbx_folder/model_to_subj_anat
+
+antsRegistrationSyNQuick.sh -d 3 -f bundleframe/sample/Register_T1/sample__t1_warped.nii.gz 
+
+bundleframe (tractoflow_folder)
+    - my_subject_list.txt
+    - mni_masked.nii.gz
+    * sample (subj folder)
+        * Tracking
+            - sample __local_tracking.trk
+        * Register_T1
+            - sample__t1_warped.nii.gz
+        * rbx_folder
+            - model_to_subj_anat
+    * config
+        - config_fss_1
+        - config_fss_2
+
+
+===================================== Quantifying bundles per fixel
+'''
+1st- list for each voxel
+2nd(1)- voxel coordinates
+2nd(2)- list of fixels
+3rd- list for each fixel
+4th- index of the fixel
+[]
+[]
+[]
+[
+    [1, 2, 3]
+    [
+        []
+        []
+        []
+        [
+            [4, 5, 6]
+            []
+        ]
+    ]
+]
+
+
+Index File (1st volume)
+1st- x increments
+2nd - y increments
+3rd - list of #fixels at z increment
+[
+    [
+        []
+        []
+        []
+    ]
+    []
+    []
+]
+[]
+[]
+
+Index File (2nd volume)
+1st- x increments
+2nd - y increments
+3rd - list of 1st fixel index at z increment
+[
+    [
+        []
+        []
+        []
+    ]
+    []
+    []
+]
+[]
+[]
+
+
+1st- list for each fixel
+2nd (1)- fixel index
+2nd (2)- index of bundles in the fixel
+2nd (3)- voxel coordinates of fixel
+
+[
+    [234]
+    [0, 1]
+    [1, 2, 3]
+]
+[]
+[]
+
+
+1. Find the index of all fixels that are non-zero in TDI map
+2. Loop through the index file to find the indices
+3. Match the index with the associated voxel coordinates
+
+Loop through the index file
+    Create segmentations of indeces corresponding to each voxel
+
+Loop through each fixel list
+    Add voxel coordinates to the fixel list
+
+Loop through each tdi mask 
+    loop through each fixel in the tdi mask
+        if fixel is non-zero, 
+            add one to the bundle count in the appropriate fixel list
+            add the name of the bundle to the appropriate fixel list
+        else if fixel is zero,
+            pass
+            
+''' 
+
+Fixel Attributes:
+======================
+1st- list for each fixel
+2nd (1) - fixel index
+2nd (2) - index of bundles in the fixel
+2nd (3) - voxel coordinates of fixel
+2nd (4) - fiber direction
+[
+    [234]
+    [0, 1]
+    [1, 2, 3]
+    [23, 32, 13]
+]
+[]
+[]
+
+Voxel Attributes:
+======================
+1st - list for each voxel 
+2nd (1) - voxel coordinates
+2nd (2) - contained fixels (index in fixel_attributes)
+2nd (3) - mean weighted direction
+[
+    [24, 22, 92]
+    [1341, 3453, 1231]
+    [23, 32, 13]
+]
+[]
+[]
+
+Bottleneck Locations:
+======================
+1st - list for each region
+2nd (1)- list of surrounding voxels 
+2nd (2)- list of voxels within region
+2nd (3) - 
+[
+    [213, 212, 232]
+    [123, 12334, 432]
+]
+[]
+[]
+
+============================================================
+Siamese Network (For each Surrounding Voxel):
+Features: SIFT2 Fiber Densities, Bottleneck Region(Brain) Location, Specific Fixel Peak/Voxel Direction
+Trained on: Segmented Bottleneck Regions from HCP Streamline Sets
+Output: Feature vector (ReLu)
+
+ANN for Similarity Search --> 
+
+
+
+Finalized
+============================================================
+> Pytorch model (machine learning) creates a linear regression model with weights from training
+    > Trained on HCP Golden Truth Sets in identified bottleneck regions
+> Each surrounding voxel is passed into linear regression model to determine sparse feature vector
+> Using each vector, nearest neighbor is found with PyNNDescent (ANN)
+
+Filling in the holes:
+> "Mini" Probabalistic Tractography 
+> Concatenate files
